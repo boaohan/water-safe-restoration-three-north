@@ -1,0 +1,5 @@
+* -text
+*.png binary
+*.tif binary
+*.pdf binary
+# Preserve exact UTF-8 CSV/code bytes for checksums across platforms.
