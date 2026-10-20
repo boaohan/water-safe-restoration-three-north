@@ -1,0 +1,35 @@
+{
+  "input_classyear_rows": 1160,
+  "input_classcodes": 58,
+  "input_years": 20,
+  "training_rows": 180,
+  "training_classcodes": 9,
+  "training_basezones": 9,
+  "training_basezone_list": [
+    0,
+    3,
+    6,
+    7,
+    8,
+    9,
+    11,
+    13,
+    14
+  ],
+  "output_classcodes": 58,
+  "V_hydro_min": 0.07486857573201812,
+  "V_hydro_median": 0.3874630761932666,
+  "V_hydro_max": 0.5383568765481986,
+  "V_headroom_median": 0.0,
+  "current_FVC_above_Vhydro_n": 38,
+  "prelim_sparse_open_n": 7,
+  "prelim_sparse_open_ClassCodes": [
+    20,
+    40,
+    80,
+    90,
+    120,
+    130,
+    140
+  ]
+}

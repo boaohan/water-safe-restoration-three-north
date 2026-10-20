@@ -1,0 +1,16 @@
+{
+  "rows": 58,
+  "unique_classcodes": 58,
+  "missing_gate": 0,
+  "total_area_km2": 3999548.721424142,
+  "active_expansion_n": 7,
+  "active_expansion_area_km2": 52152.58776148496,
+  "active_expansion_area_share_pct": 1.3039618065438816,
+  "limited_expansion_area_share_pct": 14.79091244059145,
+  "structural_only_area_share_pct": 20.65637337944313,
+  "no_canopy_headroom_area_share_pct": 3.7664710952951594,
+  "natural_sparse_area_share_pct": 41.91479510704584,
+  "gde_conservation_area_share_pct": 17.567486171080535,
+  "V_candidate_max_below_min_n": 0,
+  "LAI_target_max_negative_n": 0
+}

@@ -1,0 +1,13 @@
+﻿FinalManagementPathway,R09_transferability_tier,DensityGuidanceLevel,n_ClassCode,Area_km2,Area_share_pct
+Close-to-nature structural management,high,local_structural_reference_only,2,212757.38006593008,5.319534649653482
+Close-to-nature structural management,low,no_numeric_density,9,205023.49226987432,5.126165638929145
+Close-to-nature structural management,moderate,no_numeric_density,4,408380.8450543102,10.210673090860505
+GDE conservation / passive recovery,high,not_applicable,1,60583.51083235919,1.514758665342296
+GDE conservation / passive recovery,low,not_applicable,9,379094.9144549693,9.478442215850363
+GDE conservation / passive recovery,moderate,not_applicable,4,262941.743254486,6.574285289887877
+Herbaceous/exclosure passive recovery,high,not_applicable,1,12640.397228359809,0.3160455868595813
+Herbaceous/exclosure passive recovery,low,not_applicable,3,73545.9720743724,1.8388567610243904
+Herbaceous/exclosure passive recovery,moderate,not_applicable,8,64455.4772319552,1.611568747411187
+Low-tree mixed restoration,low,regional_structure_only,8,53754.05260237589,1.3440029449931385
+Low-tree mixed restoration,moderate,functional_structure_only,2,589968.2845637487,14.750871302142194
+Natural sparse/open conservation,low,not_applicable,7,1676402.6517914007,41.91479510704584

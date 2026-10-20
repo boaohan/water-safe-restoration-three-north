@@ -1,0 +1,59 @@
+﻿ClassCode,FinalManagementPathway,TransferabilityTier,BestReferenceDomain,DensityGuidanceLevel,DensityReportingRule
+0,Close-to-nature structural management,high,Horqin_Hunshandake,local_structural_reference_only,"Existing-stand density reference may be consulted, but local stand inventory is required"
+1,GDE conservation / passive recovery,high,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+2,Herbaceous/exclosure passive recovery,high,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+3,Close-to-nature structural management,high,Horqin_Hunshandake,local_structural_reference_only,"Existing-stand density reference may be consulted, but local stand inventory is required"
+10,Close-to-nature structural management,moderate,Horqin_Hunshandake,no_numeric_density,Use structural-management guidance only; do not transfer stems/ha
+11,GDE conservation / passive recovery,moderate,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+12,Herbaceous/exclosure passive recovery,moderate,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+13,Close-to-nature structural management,moderate,Horqin_Hunshandake,no_numeric_density,Use structural-management guidance only; do not transfer stems/ha
+20,Natural sparse/open conservation,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+21,GDE conservation / passive recovery,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+22,Low-tree mixed restoration,low,Horqin_Hunshandake,regional_structure_only,Report LAI + occupancy + life-form structure only; local density/species references are outside their empirical domain
+23,Low-tree mixed restoration,low,Horqin_Hunshandake,regional_structure_only,Report LAI + occupancy + life-form structure only; local density/species references are outside their empirical domain
+30,Low-tree mixed restoration,moderate,Horqin_Hunshandake,functional_structure_only,"Report LAI, occupancy and life-form structure; no stems/ha or species prescription"
+31,GDE conservation / passive recovery,moderate,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+32,Herbaceous/exclosure passive recovery,moderate,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+33,Herbaceous/exclosure passive recovery,moderate,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+40,Natural sparse/open conservation,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+41,GDE conservation / passive recovery,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+42,Herbaceous/exclosure passive recovery,moderate,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+43,Herbaceous/exclosure passive recovery,moderate,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+50,Low-tree mixed restoration,low,Horqin_Hunshandake,regional_structure_only,Report LAI + occupancy + life-form structure only; local density/species references are outside their empirical domain
+51,GDE conservation / passive recovery,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+52,Low-tree mixed restoration,low,Horqin_Hunshandake,regional_structure_only,Report LAI + occupancy + life-form structure only; local density/species references are outside their empirical domain
+53,Low-tree mixed restoration,low,Horqin_Hunshandake,regional_structure_only,Report LAI + occupancy + life-form structure only; local density/species references are outside their empirical domain
+60,Close-to-nature structural management,low,Horqin_Hunshandake,no_numeric_density,Use structural-management guidance only; do not transfer stems/ha
+61,GDE conservation / passive recovery,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+62,Herbaceous/exclosure passive recovery,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+63,Close-to-nature structural management,low,Horqin_Hunshandake,no_numeric_density,Use structural-management guidance only; do not transfer stems/ha
+70,Low-tree mixed restoration,moderate,Horqin_Hunshandake,functional_structure_only,"Report LAI, occupancy and life-form structure; no stems/ha or species prescription"
+71,GDE conservation / passive recovery,moderate,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+72,Herbaceous/exclosure passive recovery,moderate,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+73,Herbaceous/exclosure passive recovery,moderate,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+80,Natural sparse/open conservation,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+81,GDE conservation / passive recovery,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+82,Low-tree mixed restoration,low,Horqin_Hunshandake,regional_structure_only,Report LAI + occupancy + life-form structure only; local density/species references are outside their empirical domain
+83,Low-tree mixed restoration,low,Horqin_Hunshandake,regional_structure_only,Report LAI + occupancy + life-form structure only; local density/species references are outside their empirical domain
+90,Natural sparse/open conservation,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+91,GDE conservation / passive recovery,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+92,Close-to-nature structural management,low,Horqin_Hunshandake,no_numeric_density,Use structural-management guidance only; do not transfer stems/ha
+93,Low-tree mixed restoration,low,Horqin_Hunshandake,regional_structure_only,Report LAI + occupancy + life-form structure only; local density/species references are outside their empirical domain
+100,Close-to-nature structural management,low,Horqin_Hunshandake,no_numeric_density,Use structural-management guidance only; do not transfer stems/ha
+101,GDE conservation / passive recovery,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+102,Herbaceous/exclosure passive recovery,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+103,Herbaceous/exclosure passive recovery,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+110,Close-to-nature structural management,moderate,Horqin_Hunshandake,no_numeric_density,Use structural-management guidance only; do not transfer stems/ha
+111,GDE conservation / passive recovery,moderate,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+112,Herbaceous/exclosure passive recovery,moderate,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+113,Close-to-nature structural management,moderate,Horqin_Hunshandake,no_numeric_density,Use structural-management guidance only; do not transfer stems/ha
+120,Natural sparse/open conservation,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+123,Close-to-nature structural management,low,Horqin_Hunshandake,no_numeric_density,Use structural-management guidance only; do not transfer stems/ha
+130,Natural sparse/open conservation,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+131,GDE conservation / passive recovery,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+132,Close-to-nature structural management,low,Horqin_Hunshandake,no_numeric_density,Use structural-management guidance only; do not transfer stems/ha
+133,Close-to-nature structural management,low,Horqin_Hunshandake,no_numeric_density,Use structural-management guidance only; do not transfer stems/ha
+140,Natural sparse/open conservation,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+141,GDE conservation / passive recovery,low,Horqin_Hunshandake,not_applicable,No numerical planting density; conservation/passive guidance only
+142,Close-to-nature structural management,low,Horqin_Hunshandake,no_numeric_density,Use structural-management guidance only; do not transfer stems/ha
+143,Close-to-nature structural management,low,Horqin_Hunshandake,no_numeric_density,Use structural-management guidance only; do not transfer stems/ha

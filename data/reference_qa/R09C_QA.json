@@ -1,0 +1,28 @@
+{
+  "rows": 58,
+  "unique_classcodes": 58,
+  "reference_domains": [
+    "Horqin_Hunshandake"
+  ],
+  "domain_summaries": [
+    {
+      "SourceDomain": "Horqin_Hunshandake",
+      "n_reference_samples": 10000,
+      "distance_q95": 3.8930383808825306,
+      "distance_q99": 5.470490778383832
+    }
+  ],
+  "tier_counts": {
+    "low": 36,
+    "moderate": 18,
+    "high": 4
+  },
+  "density_guidance_counts": {
+    "not_applicable": 33,
+    "no_numeric_density": 13,
+    "regional_structure_only": 8,
+    "local_structural_reference_only": 2,
+    "functional_structure_only": 2
+  },
+  "critical_interpretation": "Only high-transferability classes may use local Horqin–Otindag density/species references as provisional planning envelopes; regional stems/ha prescriptions remain unsupported without local field/site calibration."
+}

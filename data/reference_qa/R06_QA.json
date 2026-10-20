@@ -1,0 +1,14 @@
+{
+  "input_classcodes": 58,
+  "candidate_rows": 4784,
+  "optimized_classcodes": 25,
+  "direct_management_classcodes": 33,
+  "duplicate_candidate_ids": 0,
+  "q_sum_failure_n": 0,
+  "land_fraction_sum_failure_n": 0,
+  "LAI_safe_violation_n": 0,
+  "V_max_violation_n": 0,
+  "PatchLAI_violation_n": 0,
+  "TreeCap_violation_n": 0,
+  "candidates_in_gate0_2_n": 0
+}

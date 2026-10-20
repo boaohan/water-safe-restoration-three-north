@@ -1,0 +1,19 @@
+{
+  "rows": 58,
+  "unique_classcodes": 58,
+  "missing_LAI_safe": 0,
+  "negative_LAI_safe": 0,
+  "LAI_safe_above_LAI_hydro": 0,
+  "core_level1_above_current_LAI": 0,
+  "safe_ratio_min": 0.14600953534034988,
+  "safe_ratio_median": 0.5497436424719344,
+  "safe_ratio_max": 0.9999986621311489,
+  "LAI_safe_min": 0.2248031581368352,
+  "LAI_safe_median": 0.9726340536601922,
+  "LAI_safe_max": 3.334740673907067,
+  "n_over_safe_capacity": 23,
+  "area_over_safe_capacity_km2": 800581.22227797,
+  "n_with_positive_LAI_headroom": 32,
+  "n_with_positive_V_headroom": 20,
+  "prelim_sparse_open_n": 7
+}

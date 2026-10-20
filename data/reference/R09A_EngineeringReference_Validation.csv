@@ -1,0 +1,175 @@
+﻿scope,ClassCode,BaseZone,GDE_Level,Area_km2,FinalManagementPathway,engineering_group,reference_group_fallback,LAI_safe,LAI_target,q_tree,q_shrub,q_herb,reference_available,capacity_within_p05_p95,capacity_within_minmax,tree_within_p05_p95,shrub_within_p05_p95,grass_within_p05_p95,all_ratios_within_p05_p95
+pooled_two_sandlands,0,0,0,191317.7922540237,Close-to-nature structural management,typical_shrub_grass,True,1.399414459383621,0.6604137744486651,0.2,0.4,0.4,True,False,True,True,True,True,True
+pooled_two_sandlands,1,0,1,60583.51083235919,GDE conservation / passive recovery,,False,0.6010691804575328,,,,,False,,,,,,
+pooled_two_sandlands,2,0,2,12640.397228359809,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.8642653355321318,,,,,True,False,False,,,,
+pooled_two_sandlands,3,0,3,21439.5878119064,Close-to-nature structural management,typical_shrub_grass,True,0.961986722034282,0.875688569510968,0.1,0.4,0.5,True,True,True,True,True,True,True
+pooled_two_sandlands,10,1,0,136811.7486185813,Close-to-nature structural management,typical_shrub_grass,True,3.334740673907067,1.874171952731004,0.2,0.4,0.4,True,False,False,True,True,True,True
+pooled_two_sandlands,11,1,1,110052.45743957612,GDE conservation / passive recovery,,False,0.9775559742582732,,,,,False,,,,,,
+pooled_two_sandlands,12,1,2,22285.85499054927,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.5195960236968356,,,,,True,False,False,,,,
+pooled_two_sandlands,13,1,3,38270.70541695984,Close-to-nature structural management,typical_shrub_grass,True,2.0241400546368395,1.609737718121093,0.1,0.5,0.4,True,False,False,True,False,True,False
+pooled_two_sandlands,20,2,0,83464.41957992903,Natural sparse/open conservation,,False,1.1711128487200788,,,,,False,,,,,,
+pooled_two_sandlands,21,2,1,4298.5145025497495,GDE conservation / passive recovery,,False,0.2248031581368352,,,,,False,,,,,,
+pooled_two_sandlands,22,2,2,1303.5775342987756,Low-tree mixed restoration,tree_shrub_grass,False,0.700094231619793,0.1905104101225007,0.2,0.4,0.4,True,False,False,True,False,True,False
+pooled_two_sandlands,23,2,3,2401.5481139813733,Low-tree mixed restoration,tree_shrub_grass,False,0.8609849198760716,0.1829114782004594,0.1,0.4,0.5,True,True,True,False,False,True,False
+pooled_two_sandlands,30,3,0,436789.3299411898,Low-tree mixed restoration,tree_shrub_grass,False,1.095521492111205,0.4909015347793243,0.1,0.5,0.4,True,True,True,False,False,True,False
+pooled_two_sandlands,31,3,1,4423.9182487875,GDE conservation / passive recovery,,False,0.4232089030765503,,,,,False,,,,,,
+pooled_two_sandlands,32,3,2,3183.812867015687,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.7278185050170181,,,,,True,False,True,,,,
+pooled_two_sandlands,33,3,3,7325.570366580147,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.8760902445455376,,,,,True,False,False,,,,
+pooled_two_sandlands,40,4,0,389586.1952434626,Natural sparse/open conservation,,False,1.102765862164202,,,,,False,,,,,,
+pooled_two_sandlands,41,4,1,94.98038618750002,GDE conservation / passive recovery,,False,0.7653521821441276,,,,,False,,,,,,
+pooled_two_sandlands,42,4,2,113.27694600000002,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.967712133062111,,,,,True,False,False,,,,
+pooled_two_sandlands,43,4,3,308.7306589374999,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.0115104467409433,,,,,True,False,False,,,,
+pooled_two_sandlands,50,5,0,17552.31783752173,Low-tree mixed restoration,tree_shrub_grass,False,1.7462338591655868,0.6608428313474639,0.2,0.4,0.4,True,False,False,True,False,True,False
+pooled_two_sandlands,51,5,1,48283.80304616963,GDE conservation / passive recovery,,False,0.5245367418337976,,,,,False,,,,,,
+pooled_two_sandlands,52,5,2,3428.0802512367623,Low-tree mixed restoration,tree_shrub_grass,False,1.0990058820322932,0.3681365850834394,0.2,0.4,0.4,True,True,True,True,False,True,False
+pooled_two_sandlands,53,5,3,4539.963663137986,Low-tree mixed restoration,tree_shrub_grass,False,1.2043658701824032,0.4053623010024068,0.1,0.4,0.5,True,True,True,False,False,True,False
+pooled_two_sandlands,60,6,0,38436.86714421382,Close-to-nature structural management,typical_shrub_grass,True,2.351827522698408,0.9723231829356817,0.2,0.4,0.4,True,False,False,True,True,True,True
+pooled_two_sandlands,61,6,1,130446.79626063524,GDE conservation / passive recovery,,False,0.5264342046008663,,,,,False,,,,,,
+pooled_two_sandlands,62,6,2,9734.378011294608,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.0884083349677107,,,,,True,False,False,,,,
+pooled_two_sandlands,63,6,3,12019.16812951347,Close-to-nature structural management,typical_shrub_grass,True,1.2504953751110377,1.0162215822616218,0.1,0.5,0.4,True,False,True,True,False,True,False
+pooled_two_sandlands,70,7,0,153178.95462255893,Low-tree mixed restoration,tree_shrub_grass,False,1.0403755917586526,0.4271184476638315,0.1,0.4,0.5,True,True,True,False,False,True,False
+pooled_two_sandlands,71,7,1,32628.279687527986,GDE conservation / passive recovery,,False,0.293271327286459,,,,,False,,,,,,
+pooled_two_sandlands,72,7,2,4572.6283158321085,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.5209193863397531,,,,,True,True,True,,,,
+pooled_two_sandlands,73,7,3,7090.094923157844,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.6314603616882905,,,,,True,True,True,,,,
+pooled_two_sandlands,80,8,0,78017.06934174449,Natural sparse/open conservation,,False,1.1712653049818529,,,,,False,,,,,,
+pooled_two_sandlands,81,8,1,11355.254305576953,GDE conservation / passive recovery,,False,0.3281021416659143,,,,,False,,,,,,
+pooled_two_sandlands,82,8,2,1601.4648408909316,Low-tree mixed restoration,tree_shrub_grass,False,0.6931240762818719,0.3852840053058065,0.2,0.4,0.4,True,False,False,True,False,True,False
+pooled_two_sandlands,83,8,3,2802.13023070588,Low-tree mixed restoration,tree_shrub_grass,False,0.8050649891411699,0.3812975838886869,0.1,0.5,0.4,True,False,False,False,False,True,False
+pooled_two_sandlands,90,9,0,223154.47683558465,Natural sparse/open conservation,,False,1.126845977875828,,,,,False,,,,,,
+pooled_two_sandlands,91,9,1,78974.17832114181,GDE conservation / passive recovery,,False,0.2603571874381294,,,,,False,,,,,,
+pooled_two_sandlands,92,9,2,12713.14525582549,Close-to-nature structural management,typical_shrub_grass,True,0.5139279423688057,0.3688709284474267,0.2,0.4,0.4,True,False,False,True,True,True,True
+pooled_two_sandlands,93,9,3,20124.97013060245,Low-tree mixed restoration,tree_shrub_grass,False,0.6304169649881394,0.3222105832545361,0.1,0.5,0.4,True,False,False,False,False,True,False
+pooled_two_sandlands,100,10,0,140404.14599538405,Close-to-nature structural management,typical_shrub_grass,True,2.134832770128656,1.3210314990154413,0.2,0.4,0.4,True,False,False,True,True,True,True
+pooled_two_sandlands,101,10,1,105219.8797786459,GDE conservation / passive recovery,,False,0.6999733676927459,,,,,False,,,,,,
+pooled_two_sandlands,102,10,2,23683.36691427796,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.235813343724865,,,,,True,False,False,,,,
+pooled_two_sandlands,103,10,3,40128.22714879983,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.4152069004444112,,,,,True,False,False,,,,
+pooled_two_sandlands,110,11,0,204006.17540048403,Close-to-nature structural management,typical_shrub_grass,True,1.3623224100690172,0.7038000308868287,0.2,0.4,0.4,True,False,True,True,True,True,True
+pooled_two_sandlands,111,11,1,115837.08787859444,GDE conservation / passive recovery,,False,0.5991058416764514,,,,,False,,,,,,
+pooled_two_sandlands,112,11,2,19575.50816388264,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.0064509449053003,,,,,True,False,False,,,,
+pooled_two_sandlands,113,11,3,29292.215618285085,Close-to-nature structural management,typical_shrub_grass,True,1.1454384030009976,1.055700664059859,0.1,0.4,0.5,True,True,True,True,True,True,True
+pooled_two_sandlands,120,12,0,314614.5812215049,Natural sparse/open conservation,,False,1.2090551573189094,,,,,False,,,,,,
+pooled_two_sandlands,123,12,3,2.928532,Close-to-nature structural management,typical_shrub_grass,True,1.231627245010981,0.5423796443703423,0.0,0.5,0.5,True,True,True,False,False,True,False
+pooled_two_sandlands,130,13,0,165247.8423828664,Natural sparse/open conservation,,False,1.1719435332069728,,,,,False,,,,,,
+pooled_two_sandlands,131,13,1,323.0326042499999,GDE conservation / passive recovery,,False,0.5721622399373251,,,,,False,,,,,,
+pooled_two_sandlands,132,13,2,162.06645637499997,Close-to-nature structural management,typical_shrub_grass,True,0.7267754433767527,0.5670978105891896,0.1,0.5,0.4,True,True,True,True,False,True,False
+pooled_two_sandlands,133,13,3,377.1567573750001,Close-to-nature structural management,typical_shrub_grass,True,0.8026639261897526,0.5385526304565901,0.1,0.4,0.5,True,True,True,True,True,True,True
+pooled_two_sandlands,140,14,0,422318.0671863086,Natural sparse/open conservation,,False,1.1335244672005638,,,,,False,,,,,,
+pooled_two_sandlands,141,14,1,98.4752498125,GDE conservation / passive recovery,,False,0.565648848210057,,,,,False,,,,,,
+pooled_two_sandlands,142,14,2,223.0406060625,Close-to-nature structural management,typical_shrub_grass,True,0.9532430397625864,0.6125254762877184,0.0,0.5,0.5,True,True,True,False,False,True,False
+pooled_two_sandlands,143,14,3,684.9733931250003,Close-to-nature structural management,typical_shrub_grass,True,1.0589427060006642,0.6483075346314366,0.0,0.5,0.5,True,True,True,False,False,True,False
+Horqin,0,0,0,191317.7922540237,Close-to-nature structural management,typical_shrub_grass,True,1.399414459383621,0.6604137744486651,0.2,0.4,0.4,True,False,True,True,True,True,True
+Horqin,1,0,1,60583.51083235919,GDE conservation / passive recovery,,False,0.6010691804575328,,,,,False,,,,,,
+Horqin,2,0,2,12640.397228359809,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.8642653355321318,,,,,True,False,False,,,,
+Horqin,3,0,3,21439.5878119064,Close-to-nature structural management,typical_shrub_grass,True,0.961986722034282,0.875688569510968,0.1,0.4,0.5,True,True,True,True,True,True,True
+Horqin,10,1,0,136811.7486185813,Close-to-nature structural management,typical_shrub_grass,True,3.334740673907067,1.874171952731004,0.2,0.4,0.4,True,False,False,True,True,True,True
+Horqin,11,1,1,110052.45743957612,GDE conservation / passive recovery,,False,0.9775559742582732,,,,,False,,,,,,
+Horqin,12,1,2,22285.85499054927,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.5195960236968356,,,,,True,False,False,,,,
+Horqin,13,1,3,38270.70541695984,Close-to-nature structural management,typical_shrub_grass,True,2.0241400546368395,1.609737718121093,0.1,0.5,0.4,True,False,False,True,False,True,False
+Horqin,20,2,0,83464.41957992903,Natural sparse/open conservation,,False,1.1711128487200788,,,,,False,,,,,,
+Horqin,21,2,1,4298.5145025497495,GDE conservation / passive recovery,,False,0.2248031581368352,,,,,False,,,,,,
+Horqin,22,2,2,1303.5775342987756,Low-tree mixed restoration,tree_shrub_grass,False,0.700094231619793,0.1905104101225007,0.2,0.4,0.4,True,False,False,False,False,True,False
+Horqin,23,2,3,2401.5481139813733,Low-tree mixed restoration,tree_shrub_grass,False,0.8609849198760716,0.1829114782004594,0.1,0.4,0.5,True,False,False,False,False,True,False
+Horqin,30,3,0,436789.3299411898,Low-tree mixed restoration,tree_shrub_grass,False,1.095521492111205,0.4909015347793243,0.1,0.5,0.4,True,True,True,False,False,True,False
+Horqin,31,3,1,4423.9182487875,GDE conservation / passive recovery,,False,0.4232089030765503,,,,,False,,,,,,
+Horqin,32,3,2,3183.812867015687,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.7278185050170181,,,,,True,False,False,,,,
+Horqin,33,3,3,7325.570366580147,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.8760902445455376,,,,,True,False,False,,,,
+Horqin,40,4,0,389586.1952434626,Natural sparse/open conservation,,False,1.102765862164202,,,,,False,,,,,,
+Horqin,41,4,1,94.98038618750002,GDE conservation / passive recovery,,False,0.7653521821441276,,,,,False,,,,,,
+Horqin,42,4,2,113.27694600000002,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.967712133062111,,,,,True,False,False,,,,
+Horqin,43,4,3,308.7306589374999,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.0115104467409433,,,,,True,False,False,,,,
+Horqin,50,5,0,17552.31783752173,Low-tree mixed restoration,tree_shrub_grass,False,1.7462338591655868,0.6608428313474639,0.2,0.4,0.4,True,False,False,False,False,True,False
+Horqin,51,5,1,48283.80304616963,GDE conservation / passive recovery,,False,0.5245367418337976,,,,,False,,,,,,
+Horqin,52,5,2,3428.0802512367623,Low-tree mixed restoration,tree_shrub_grass,False,1.0990058820322932,0.3681365850834394,0.2,0.4,0.4,True,True,True,False,False,True,False
+Horqin,53,5,3,4539.963663137986,Low-tree mixed restoration,tree_shrub_grass,False,1.2043658701824032,0.4053623010024068,0.1,0.4,0.5,True,True,True,False,False,True,False
+Horqin,60,6,0,38436.86714421382,Close-to-nature structural management,typical_shrub_grass,True,2.351827522698408,0.9723231829356817,0.2,0.4,0.4,True,False,False,True,True,True,True
+Horqin,61,6,1,130446.79626063524,GDE conservation / passive recovery,,False,0.5264342046008663,,,,,False,,,,,,
+Horqin,62,6,2,9734.378011294608,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.0884083349677107,,,,,True,False,False,,,,
+Horqin,63,6,3,12019.16812951347,Close-to-nature structural management,typical_shrub_grass,True,1.2504953751110377,1.0162215822616218,0.1,0.5,0.4,True,False,True,True,False,True,False
+Horqin,70,7,0,153178.95462255893,Low-tree mixed restoration,tree_shrub_grass,False,1.0403755917586526,0.4271184476638315,0.1,0.4,0.5,True,True,True,False,False,True,False
+Horqin,71,7,1,32628.279687527986,GDE conservation / passive recovery,,False,0.293271327286459,,,,,False,,,,,,
+Horqin,72,7,2,4572.6283158321085,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.5209193863397531,,,,,True,True,True,,,,
+Horqin,73,7,3,7090.094923157844,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.6314603616882905,,,,,True,False,False,,,,
+Horqin,80,8,0,78017.06934174449,Natural sparse/open conservation,,False,1.1712653049818529,,,,,False,,,,,,
+Horqin,81,8,1,11355.254305576953,GDE conservation / passive recovery,,False,0.3281021416659143,,,,,False,,,,,,
+Horqin,82,8,2,1601.4648408909316,Low-tree mixed restoration,tree_shrub_grass,False,0.6931240762818719,0.3852840053058065,0.2,0.4,0.4,True,False,False,False,False,True,False
+Horqin,83,8,3,2802.13023070588,Low-tree mixed restoration,tree_shrub_grass,False,0.8050649891411699,0.3812975838886869,0.1,0.5,0.4,True,False,False,False,False,True,False
+Horqin,90,9,0,223154.47683558465,Natural sparse/open conservation,,False,1.126845977875828,,,,,False,,,,,,
+Horqin,91,9,1,78974.17832114181,GDE conservation / passive recovery,,False,0.2603571874381294,,,,,False,,,,,,
+Horqin,92,9,2,12713.14525582549,Close-to-nature structural management,typical_shrub_grass,True,0.5139279423688057,0.3688709284474267,0.2,0.4,0.4,True,False,False,True,True,True,True
+Horqin,93,9,3,20124.97013060245,Low-tree mixed restoration,tree_shrub_grass,False,0.6304169649881394,0.3222105832545361,0.1,0.5,0.4,True,False,False,False,False,True,False
+Horqin,100,10,0,140404.14599538405,Close-to-nature structural management,typical_shrub_grass,True,2.134832770128656,1.3210314990154413,0.2,0.4,0.4,True,False,False,True,True,True,True
+Horqin,101,10,1,105219.8797786459,GDE conservation / passive recovery,,False,0.6999733676927459,,,,,False,,,,,,
+Horqin,102,10,2,23683.36691427796,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.235813343724865,,,,,True,False,False,,,,
+Horqin,103,10,3,40128.22714879983,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.4152069004444112,,,,,True,False,False,,,,
+Horqin,110,11,0,204006.17540048403,Close-to-nature structural management,typical_shrub_grass,True,1.3623224100690172,0.7038000308868287,0.2,0.4,0.4,True,False,True,True,True,True,True
+Horqin,111,11,1,115837.08787859444,GDE conservation / passive recovery,,False,0.5991058416764514,,,,,False,,,,,,
+Horqin,112,11,2,19575.50816388264,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.0064509449053003,,,,,True,False,False,,,,
+Horqin,113,11,3,29292.215618285085,Close-to-nature structural management,typical_shrub_grass,True,1.1454384030009976,1.055700664059859,0.1,0.4,0.5,True,False,True,True,True,True,True
+Horqin,120,12,0,314614.5812215049,Natural sparse/open conservation,,False,1.2090551573189094,,,,,False,,,,,,
+Horqin,123,12,3,2.928532,Close-to-nature structural management,typical_shrub_grass,True,1.231627245010981,0.5423796443703423,0.0,0.5,0.5,True,False,True,False,False,True,False
+Horqin,130,13,0,165247.8423828664,Natural sparse/open conservation,,False,1.1719435332069728,,,,,False,,,,,,
+Horqin,131,13,1,323.0326042499999,GDE conservation / passive recovery,,False,0.5721622399373251,,,,,False,,,,,,
+Horqin,132,13,2,162.06645637499997,Close-to-nature structural management,typical_shrub_grass,True,0.7267754433767527,0.5670978105891896,0.1,0.5,0.4,True,True,True,True,False,True,False
+Horqin,133,13,3,377.1567573750001,Close-to-nature structural management,typical_shrub_grass,True,0.8026639261897526,0.5385526304565901,0.1,0.4,0.5,True,True,True,True,True,True,True
+Horqin,140,14,0,422318.0671863086,Natural sparse/open conservation,,False,1.1335244672005638,,,,,False,,,,,,
+Horqin,141,14,1,98.4752498125,GDE conservation / passive recovery,,False,0.565648848210057,,,,,False,,,,,,
+Horqin,142,14,2,223.0406060625,Close-to-nature structural management,typical_shrub_grass,True,0.9532430397625864,0.6125254762877184,0.0,0.5,0.5,True,True,True,False,False,True,False
+Horqin,143,14,3,684.9733931250003,Close-to-nature structural management,typical_shrub_grass,True,1.0589427060006642,0.6483075346314366,0.0,0.5,0.5,True,True,True,False,False,True,False
+Hunshandake,0,0,0,191317.7922540237,Close-to-nature structural management,typical_shrub_grass,True,1.399414459383621,0.6604137744486651,0.2,0.4,0.4,True,True,True,True,True,True,True
+Hunshandake,1,0,1,60583.51083235919,GDE conservation / passive recovery,,False,0.6010691804575328,,,,,False,,,,,,
+Hunshandake,2,0,2,12640.397228359809,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.8642653355321318,,,,,True,False,False,,,,
+Hunshandake,3,0,3,21439.5878119064,Close-to-nature structural management,typical_shrub_grass,True,0.961986722034282,0.875688569510968,0.1,0.4,0.5,True,True,True,True,True,True,True
+Hunshandake,10,1,0,136811.7486185813,Close-to-nature structural management,typical_shrub_grass,True,3.334740673907067,1.874171952731004,0.2,0.4,0.4,True,False,False,True,True,True,True
+Hunshandake,11,1,1,110052.45743957612,GDE conservation / passive recovery,,False,0.9775559742582732,,,,,False,,,,,,
+Hunshandake,12,1,2,22285.85499054927,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.5195960236968356,,,,,True,False,False,,,,
+Hunshandake,13,1,3,38270.70541695984,Close-to-nature structural management,typical_shrub_grass,True,2.0241400546368395,1.609737718121093,0.1,0.5,0.4,True,False,False,True,True,True,True
+Hunshandake,20,2,0,83464.41957992903,Natural sparse/open conservation,,False,1.1711128487200788,,,,,False,,,,,,
+Hunshandake,21,2,1,4298.5145025497495,GDE conservation / passive recovery,,False,0.2248031581368352,,,,,False,,,,,,
+Hunshandake,22,2,2,1303.5775342987756,Low-tree mixed restoration,tree_shrub_grass,False,0.700094231619793,0.1905104101225007,0.2,0.4,0.4,True,False,False,True,False,True,False
+Hunshandake,23,2,3,2401.5481139813733,Low-tree mixed restoration,tree_shrub_grass,False,0.8609849198760716,0.1829114782004594,0.1,0.4,0.5,True,False,True,False,False,True,False
+Hunshandake,30,3,0,436789.3299411898,Low-tree mixed restoration,tree_shrub_grass,False,1.095521492111205,0.4909015347793243,0.1,0.5,0.4,True,True,True,False,False,True,False
+Hunshandake,31,3,1,4423.9182487875,GDE conservation / passive recovery,,False,0.4232089030765503,,,,,False,,,,,,
+Hunshandake,32,3,2,3183.812867015687,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.7278185050170181,,,,,True,False,True,,,,
+Hunshandake,33,3,3,7325.570366580147,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.8760902445455376,,,,,True,False,False,,,,
+Hunshandake,40,4,0,389586.1952434626,Natural sparse/open conservation,,False,1.102765862164202,,,,,False,,,,,,
+Hunshandake,41,4,1,94.98038618750002,GDE conservation / passive recovery,,False,0.7653521821441276,,,,,False,,,,,,
+Hunshandake,42,4,2,113.27694600000002,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.967712133062111,,,,,True,False,False,,,,
+Hunshandake,43,4,3,308.7306589374999,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.0115104467409433,,,,,True,False,False,,,,
+Hunshandake,50,5,0,17552.31783752173,Low-tree mixed restoration,tree_shrub_grass,False,1.7462338591655868,0.6608428313474639,0.2,0.4,0.4,True,False,False,True,False,True,False
+Hunshandake,51,5,1,48283.80304616963,GDE conservation / passive recovery,,False,0.5245367418337976,,,,,False,,,,,,
+Hunshandake,52,5,2,3428.0802512367623,Low-tree mixed restoration,tree_shrub_grass,False,1.0990058820322932,0.3681365850834394,0.2,0.4,0.4,True,True,True,True,False,True,False
+Hunshandake,53,5,3,4539.963663137986,Low-tree mixed restoration,tree_shrub_grass,False,1.2043658701824032,0.4053623010024068,0.1,0.4,0.5,True,True,True,False,False,True,False
+Hunshandake,60,6,0,38436.86714421382,Close-to-nature structural management,typical_shrub_grass,True,2.351827522698408,0.9723231829356817,0.2,0.4,0.4,True,False,False,True,True,True,True
+Hunshandake,61,6,1,130446.79626063524,GDE conservation / passive recovery,,False,0.5264342046008663,,,,,False,,,,,,
+Hunshandake,62,6,2,9734.378011294608,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.0884083349677107,,,,,True,False,False,,,,
+Hunshandake,63,6,3,12019.16812951347,Close-to-nature structural management,typical_shrub_grass,True,1.2504953751110377,1.0162215822616218,0.1,0.5,0.4,True,True,True,True,True,True,True
+Hunshandake,70,7,0,153178.95462255893,Low-tree mixed restoration,tree_shrub_grass,False,1.0403755917586526,0.4271184476638315,0.1,0.4,0.5,True,True,True,False,False,True,False
+Hunshandake,71,7,1,32628.279687527986,GDE conservation / passive recovery,,False,0.293271327286459,,,,,False,,,,,,
+Hunshandake,72,7,2,4572.6283158321085,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.5209193863397531,,,,,True,True,True,,,,
+Hunshandake,73,7,3,7090.094923157844,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,0.6314603616882905,,,,,True,True,True,,,,
+Hunshandake,80,8,0,78017.06934174449,Natural sparse/open conservation,,False,1.1712653049818529,,,,,False,,,,,,
+Hunshandake,81,8,1,11355.254305576953,GDE conservation / passive recovery,,False,0.3281021416659143,,,,,False,,,,,,
+Hunshandake,82,8,2,1601.4648408909316,Low-tree mixed restoration,tree_shrub_grass,False,0.6931240762818719,0.3852840053058065,0.2,0.4,0.4,True,False,False,True,False,True,False
+Hunshandake,83,8,3,2802.13023070588,Low-tree mixed restoration,tree_shrub_grass,False,0.8050649891411699,0.3812975838886869,0.1,0.5,0.4,True,False,False,False,False,True,False
+Hunshandake,90,9,0,223154.47683558465,Natural sparse/open conservation,,False,1.126845977875828,,,,,False,,,,,,
+Hunshandake,91,9,1,78974.17832114181,GDE conservation / passive recovery,,False,0.2603571874381294,,,,,False,,,,,,
+Hunshandake,92,9,2,12713.14525582549,Close-to-nature structural management,typical_shrub_grass,True,0.5139279423688057,0.3688709284474267,0.2,0.4,0.4,True,False,False,True,True,True,True
+Hunshandake,93,9,3,20124.97013060245,Low-tree mixed restoration,tree_shrub_grass,False,0.6304169649881394,0.3222105832545361,0.1,0.5,0.4,True,False,False,False,False,True,False
+Hunshandake,100,10,0,140404.14599538405,Close-to-nature structural management,typical_shrub_grass,True,2.134832770128656,1.3210314990154413,0.2,0.4,0.4,True,False,False,True,True,True,True
+Hunshandake,101,10,1,105219.8797786459,GDE conservation / passive recovery,,False,0.6999733676927459,,,,,False,,,,,,
+Hunshandake,102,10,2,23683.36691427796,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.235813343724865,,,,,True,False,False,,,,
+Hunshandake,103,10,3,40128.22714879983,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.4152069004444112,,,,,True,False,False,,,,
+Hunshandake,110,11,0,204006.17540048403,Close-to-nature structural management,typical_shrub_grass,True,1.3623224100690172,0.7038000308868287,0.2,0.4,0.4,True,True,True,True,True,True,True
+Hunshandake,111,11,1,115837.08787859444,GDE conservation / passive recovery,,False,0.5991058416764514,,,,,False,,,,,,
+Hunshandake,112,11,2,19575.50816388264,Herbaceous/exclosure passive recovery,low_cover_shrub_grass,False,1.0064509449053003,,,,,True,False,False,,,,
+Hunshandake,113,11,3,29292.215618285085,Close-to-nature structural management,typical_shrub_grass,True,1.1454384030009976,1.055700664059859,0.1,0.4,0.5,True,True,True,True,True,True,True
+Hunshandake,120,12,0,314614.5812215049,Natural sparse/open conservation,,False,1.2090551573189094,,,,,False,,,,,,
+Hunshandake,123,12,3,2.928532,Close-to-nature structural management,typical_shrub_grass,True,1.231627245010981,0.5423796443703423,0.0,0.5,0.5,True,True,True,False,True,True,False
+Hunshandake,130,13,0,165247.8423828664,Natural sparse/open conservation,,False,1.1719435332069728,,,,,False,,,,,,
+Hunshandake,131,13,1,323.0326042499999,GDE conservation / passive recovery,,False,0.5721622399373251,,,,,False,,,,,,
+Hunshandake,132,13,2,162.06645637499997,Close-to-nature structural management,typical_shrub_grass,True,0.7267754433767527,0.5670978105891896,0.1,0.5,0.4,True,True,True,True,True,True,True
+Hunshandake,133,13,3,377.1567573750001,Close-to-nature structural management,typical_shrub_grass,True,0.8026639261897526,0.5385526304565901,0.1,0.4,0.5,True,True,True,True,True,True,True
+Hunshandake,140,14,0,422318.0671863086,Natural sparse/open conservation,,False,1.1335244672005638,,,,,False,,,,,,
+Hunshandake,141,14,1,98.4752498125,GDE conservation / passive recovery,,False,0.565648848210057,,,,,False,,,,,,
+Hunshandake,142,14,2,223.0406060625,Close-to-nature structural management,typical_shrub_grass,True,0.9532430397625864,0.6125254762877184,0.0,0.5,0.5,True,True,True,False,True,True,False
+Hunshandake,143,14,3,684.9733931250003,Close-to-nature structural management,typical_shrub_grass,True,1.0589427060006642,0.6483075346314366,0.0,0.5,0.5,True,True,True,False,True,True,False

@@ -1,0 +1,28 @@
+﻿SensitivityType,ParameterA,ParameterB,EligibilityGateCode,EligibilityGate,n_ClassCode,Area_km2,Area_share_pct
+active_score_threshold,0.05,,0,GDE conservation / no active expansion,14,702620.1685418144,17.567486171080535
+active_score_threshold,0.05,,1,Natural sparse/open conservation,7,1676402.6517914005,41.91479510704584
+active_score_threshold,0.05,,2,No additional canopy headroom,12,150641.84653468744,3.7664710952951594
+active_score_threshold,0.05,,3,Structural management only,15,826161.7173901147,20.65637337944313
+active_score_threshold,0.05,,4,Limited footprint expansion,1,436789.3299411898,10.92096534795205
+active_score_threshold,0.05,,5,Active footprint expansion eligible,9,206933.00722493482,5.173908899183282
+active_score_threshold,0.1,,0,GDE conservation / no active expansion,14,702620.1685418144,17.567486171080535
+active_score_threshold,0.1,,1,Natural sparse/open conservation,7,1676402.6517914005,41.91479510704584
+active_score_threshold,0.1,,2,No additional canopy headroom,12,150641.84653468744,3.7664710952951594
+active_score_threshold,0.1,,3,Structural management only,15,826161.7173901147,20.65637337944313
+active_score_threshold,0.1,,4,Limited footprint expansion,3,591569.7494046397,14.79091244059145
+active_score_threshold,0.1,,5,Active footprint expansion eligible,7,52152.58776148496,1.3039618065438816
+active_score_threshold,0.15,,0,GDE conservation / no active expansion,14,702620.1685418144,17.567486171080535
+active_score_threshold,0.15,,1,Natural sparse/open conservation,7,1676402.6517914005,41.91479510704584
+active_score_threshold,0.15,,2,No additional canopy headroom,12,150641.84653468744,3.7664710952951594
+active_score_threshold,0.15,,3,Structural management only,15,826161.7173901147,20.65637337944313
+active_score_threshold,0.15,,4,Limited footprint expansion,4,611694.7195352422,15.29409346256026
+active_score_threshold,0.15,,5,Active footprint expansion eligible,6,32027.61763088251,0.8007807845750722
+sparse_open_threshold,0.1,0.4,1,Natural sparse/open conservation,7,1676402.6517914005,41.91479510704584
+sparse_open_threshold,0.1,0.5,1,Natural sparse/open conservation,7,1676402.6517914005,41.91479510704584
+sparse_open_threshold,0.1,0.6,1,Natural sparse/open conservation,7,1676402.6517914005,41.91479510704584
+sparse_open_threshold,0.15,0.4,1,Natural sparse/open conservation,7,1676402.6517914005,41.91479510704584
+sparse_open_threshold,0.15,0.5,1,Natural sparse/open conservation,7,1676402.6517914005,41.91479510704584
+sparse_open_threshold,0.15,0.6,1,Natural sparse/open conservation,7,1676402.6517914005,41.91479510704584
+sparse_open_threshold,0.2,0.4,1,Natural sparse/open conservation,7,1676402.6517914005,41.91479510704584
+sparse_open_threshold,0.2,0.5,1,Natural sparse/open conservation,7,1676402.6517914005,41.91479510704584
+sparse_open_threshold,0.2,0.6,1,Natural sparse/open conservation,7,1676402.6517914005,41.91479510704584

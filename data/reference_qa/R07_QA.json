@@ -1,0 +1,19 @@
+{
+  "candidate_rows": 4784,
+  "optimized_classcodes": 25,
+  "pareto_rows": 480,
+  "pareto_classcodes": 25,
+  "best_rows": 25,
+  "best_unique_classcodes": 25,
+  "duplicate_best_classcodes": 0,
+  "missing_objective_values": 0,
+  "min_pareto_solutions_per_class": 3,
+  "median_pareto_solutions_per_class": 16.0,
+  "max_pareto_solutions_per_class": 41,
+  "area_weighted_Dirichlet1000_structure_consistency": 0.7072786211451997,
+  "area_weighted_Dirichlet1000_tree_presence_consistency": 0.8532468150490865,
+  "best_structure_counts": {
+    "low-tree mixed": 22,
+    "shrub-herbaceous": 3
+  }
+}

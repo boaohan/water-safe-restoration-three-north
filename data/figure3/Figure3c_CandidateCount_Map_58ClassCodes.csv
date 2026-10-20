@@ -1,0 +1,59 @@
+﻿ClassCode,BaseZone,GDE_Level,Area_km2,EligibilityGateCode,EligibilityGate,n_candidates,DirectManagementPathway,OptimizationEligible,OptimizationStatus,MapClass,MapLabel,ColorHex,MapOrder,Area_share_pct
+0,0,0,191317.792254,3,Structural management only,90,,,Optimized candidate space,64–114 candidates,64–114 candidates,#C7E9B4,3,4.783484
+1,0,1,60583.510832,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,1.514759
+2,0,2,12640.397228,2,No additional canopy headroom,,Herbaceous/exclosure passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.316046
+3,0,3,21439.587812,3,Structural management only,63,,,Optimized candidate space,33–63 candidates,33–63 candidates,#FFFFCC,2,0.536050
+10,1,0,136811.748619,3,Structural management only,153,,,Optimized candidate space,115–252 candidates,115–252 candidates,#7FCDBB,4,3.420680
+11,1,1,110052.457440,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,2.751622
+12,1,2,22285.854991,2,No additional canopy headroom,,Herbaceous/exclosure passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.557209
+13,1,3,38270.705417,3,Structural management only,63,,,Optimized candidate space,33–63 candidates,33–63 candidates,#FFFFCC,2,0.956876
+20,2,0,83464.419580,1,Natural sparse/open conservation,,Natural sparse/open conservation,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,2.086846
+21,2,1,4298.514503,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.107475
+22,2,2,1303.577534,5,Active footprint expansion eligible,480,,,Optimized candidate space,391–560 candidates,391–560 candidates,#253494,6,0.032593
+23,2,3,2401.548114,5,Active footprint expansion eligible,315,,,Optimized candidate space,253–390 candidates,253–390 candidates,#2C7FB8,5,0.060045
+30,3,0,436789.329941,4,Limited footprint expansion,252,,,Optimized candidate space,115–252 candidates,115–252 candidates,#7FCDBB,4,10.920965
+31,3,1,4423.918249,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.110610
+32,3,2,3183.812867,2,No additional canopy headroom,,Herbaceous/exclosure passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.079604
+33,3,3,7325.570367,2,No additional canopy headroom,,Herbaceous/exclosure passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.183160
+40,4,0,389586.195243,1,Natural sparse/open conservation,,Natural sparse/open conservation,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,9.740754
+41,4,1,94.980386,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.002375
+42,4,2,113.276946,2,No additional canopy headroom,,Herbaceous/exclosure passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.002832
+43,4,3,308.730659,2,No additional canopy headroom,,Herbaceous/exclosure passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.007719
+50,5,0,17552.317838,5,Active footprint expansion eligible,560,,,Optimized candidate space,391–560 candidates,391–560 candidates,#253494,6,0.438857
+51,5,1,48283.803046,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,1.207231
+52,5,2,3428.080251,5,Active footprint expansion eligible,390,,,Optimized candidate space,253–390 candidates,253–390 candidates,#2C7FB8,5,0.085712
+53,5,3,4539.963663,5,Active footprint expansion eligible,273,,,Optimized candidate space,253–390 candidates,253–390 candidates,#2C7FB8,5,0.113512
+60,6,0,38436.867144,3,Structural management only,153,,,Optimized candidate space,115–252 candidates,115–252 candidates,#7FCDBB,4,0.961030
+61,6,1,130446.796261,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,3.261538
+62,6,2,9734.378011,2,No additional canopy headroom,,Herbaceous/exclosure passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.243387
+63,6,3,12019.168130,3,Structural management only,63,,,Optimized candidate space,33–63 candidates,33–63 candidates,#FFFFCC,2,0.300513
+70,7,0,153178.954623,4,Limited footprint expansion,252,,,Optimized candidate space,115–252 candidates,115–252 candidates,#7FCDBB,4,3.829906
+71,7,1,32628.279688,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.815799
+72,7,2,4572.628316,2,No additional canopy headroom,,Herbaceous/exclosure passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.114329
+73,7,3,7090.094923,2,No additional canopy headroom,,Herbaceous/exclosure passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.177272
+80,8,0,78017.069342,1,Natural sparse/open conservation,,Natural sparse/open conservation,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,1.950647
+81,8,1,11355.254306,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.283913
+82,8,2,1601.464841,4,Limited footprint expansion,360,,,Optimized candidate space,253–390 candidates,253–390 candidates,#2C7FB8,5,0.040041
+83,8,3,2802.130231,5,Active footprint expansion eligible,336,,,Optimized candidate space,253–390 candidates,253–390 candidates,#2C7FB8,5,0.070061
+90,9,0,223154.476836,1,Natural sparse/open conservation,,Natural sparse/open conservation,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,5.579491
+91,9,1,78974.178321,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,1.974577
+92,9,2,12713.145256,3,Structural management only,90,,,Optimized candidate space,64–114 candidates,64–114 candidates,#C7E9B4,3,0.317864
+93,9,3,20124.970131,5,Active footprint expansion eligible,336,,,Optimized candidate space,253–390 candidates,253–390 candidates,#2C7FB8,5,0.503181
+100,10,0,140404.145995,3,Structural management only,153,,,Optimized candidate space,115–252 candidates,115–252 candidates,#7FCDBB,4,3.510500
+101,10,1,105219.879779,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,2.630794
+102,10,2,23683.366914,2,No additional canopy headroom,,Herbaceous/exclosure passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.592151
+103,10,3,40128.227149,2,No additional canopy headroom,,Herbaceous/exclosure passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,1.003319
+110,11,0,204006.175400,3,Structural management only,114,,,Optimized candidate space,64–114 candidates,64–114 candidates,#C7E9B4,3,5.100730
+111,11,1,115837.087879,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,2.896254
+112,11,2,19575.508164,2,No additional canopy headroom,,Herbaceous/exclosure passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.489443
+113,11,3,29292.215618,3,Structural management only,63,,,Optimized candidate space,33–63 candidates,33–63 candidates,#FFFFCC,2,0.732388
+120,12,0,314614.581222,1,Natural sparse/open conservation,,Natural sparse/open conservation,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,7.866252
+123,12,3,2.928532,3,Structural management only,33,,,Optimized candidate space,33–63 candidates,33–63 candidates,#FFFFCC,2,0.000073
+130,13,0,165247.842383,1,Natural sparse/open conservation,,Natural sparse/open conservation,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,4.131662
+131,13,1,323.032604,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.008077
+132,13,2,162.066456,3,Structural management only,63,,,Optimized candidate space,33–63 candidates,33–63 candidates,#FFFFCC,2,0.004052
+133,13,3,377.156757,3,Structural management only,63,,,Optimized candidate space,33–63 candidates,33–63 candidates,#FFFFCC,2,0.009430
+140,14,0,422318.067186,1,Natural sparse/open conservation,,Natural sparse/open conservation,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,10.559143
+141,14,1,98.475250,0,GDE conservation / no active expansion,,GDE conservation / passive recovery,False,Direct management (not optimized),Direct management (not optimized),Direct management (not optimized),#D9D9D9,1,0.002462
+142,14,2,223.040606,3,Structural management only,33,,,Optimized candidate space,33–63 candidates,33–63 candidates,#FFFFCC,2,0.005577
+143,14,3,684.973393,3,Structural management only,33,,,Optimized candidate space,33–63 candidates,33–63 candidates,#FFFFCC,2,0.017126

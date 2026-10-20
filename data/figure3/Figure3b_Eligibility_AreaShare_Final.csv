@@ -1,0 +1,7 @@
+﻿EligibilityGateCode,EligibilityGate,n_ClassCode,Area_km2,Area_share_pct,DisplayLabel,ShortLabel,ColorHex,PlotOrder,Area_share_pct_label,Area_km2_label
+0,GDE conservation / no active expansion,14,702620.168542,17.567486,GDE conservation / no expansion,GDE conservation,#365C63,1,17.6%,"702,620"
+1,Natural sparse/open conservation,7,1676402.651791,41.914795,Sparse/open conservation,Sparse/open conservation,#D8C58A,2,41.9%,"1,676,403"
+2,No additional canopy headroom,12,150641.846535,3.766471,No additional canopy expansion,No canopy headroom,#9299A1,3,3.8%,"150,642"
+3,Structural management only,15,826161.717390,20.656373,Structural management,Structural management,#91A77A,4,20.7%,"826,162"
+4,Limited footprint expansion,3,591569.749405,14.790912,Limited footprint expansion,Limited expansion,#50A477,5,14.8%,"591,570"
+5,Active footprint expansion eligible,7,52152.587761,1.303962,Active footprint expansion,Active expansion,#176B45,6,1.3%,"52,153"

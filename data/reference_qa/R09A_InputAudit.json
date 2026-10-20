@@ -1,0 +1,30 @@
+{
+  "model_rows": 58,
+  "model_unique_classcodes": 58,
+  "reference_file": "data/inputs/S11_Engineering_ReferenceRanges_AllSandlands.csv",
+  "reference_scopes": [
+    "pooled_two_sandlands",
+    "Horqin",
+    "Hunshandake"
+  ],
+  "reference_groups": [
+    "low_cover_shrub_grass",
+    "tree_shrub_grass",
+    "typical_shrub_grass"
+  ],
+  "species_audit": {
+    "species_file": "data/inputs/ThreeNorth_SpeciesPool_Seed.csv",
+    "species_rows": 40,
+    "documented_full_species_n": 134,
+    "is_full_documented_134_species_pool": false,
+    "life_form_counts": {
+      "灌木": 15,
+      "草本": 14,
+      "乔木": 11
+    },
+    "has_density_min_max": true,
+    "has_lai_coeff": true,
+    "recommended_use": "Local Horqin–Hunshandake implementation example / candidate screening only; not a universal Three-North species or density calibration."
+  },
+  "key_conclusion": "Current local reference sources support engineering-range consistency checks, but do not justify region-wide numerical stems/ha transfer."
+}

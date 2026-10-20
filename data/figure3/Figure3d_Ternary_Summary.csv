@@ -1,0 +1,4 @@
+﻿FeasibilityPersistenceClass,StrictestFeasibleGDELevel,n_unique_compositions,ColorHex,pct_of_56_unique_compositions
+Feasible only in non-GDE units,0,26,#D8C58A,46.43
+Feasible under moderate GDE constraints,2,9,#5B9CC4,16.07
+Feasible under GDE-dominated constraints,3,21,#245580,37.5

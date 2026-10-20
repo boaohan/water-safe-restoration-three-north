@@ -1,0 +1,14 @@
+{
+  "rows": 58,
+  "unique_classcodes": 58,
+  "total_area_km2": 3999548.721424142,
+  "missing_final_pathway": 0,
+  "optimized_rows": 25,
+  "direct_rows": 33,
+  "revised_tree_involved_restoration_area_share_pct": 16.09487424713533,
+  "old_manuscript_tree_shrub_grass_pct": 76.5,
+  "difference_percentage_points": -60.40512575286467,
+  "active_plus_limited_expansion_area_share_pct": 16.09487424713533,
+  "conservation_plus_passive_area_share_pct": 63.248752373421546,
+  "structural_management_area_share_pct": 20.65637337944313
+}
