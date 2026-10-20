@@ -1,0 +1,20 @@
+Repository licensing
+Copyright (c) 2026 Aohan Bo
+
+Code in analysis/, plots/ and tools/, and software configuration files:
+MIT License. See LICENSES/MIT.txt.
+
+Author-owned derived data in data/, figure outputs in figures/, documentation
+in docs/ and README.md, and author-created metadata:
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+See LICENSES/CC-BY-4.0.txt and https://creativecommons.org/licenses/by/4.0/.
+
+These licenses cover different parts of the package; they are not alternative
+licenses for every file. Retain existing third-party notices. Third-party source
+datasets and other underlying rights are not relicensed by this notice. No font
+files or journal manuscript are distributed. Official license texts retain
+their own legal status.
+
+Attribution: Aohan Bo, Beijing Forestry University, Beijing, China.
+ORCID: https://orcid.org/0009-0002-0355-0262
+Cite CITATION.cff and the archive DOI once assigned. Indicate modifications.

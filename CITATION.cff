@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: 'If you use this research companion, please cite this archive. Code: MIT;
+  data and figures: CC BY 4.0. See LICENSE for scope.'
+type: software
+title: Code and derived data for groundwater-constrained water-safe restoration across
+  China's Three-North Shelterbelt region
+version: 1.0.0
+authors:
+- given-names: Aohan
+  family-names: Bo
+  affiliation: Beijing Forestry University, Beijing, China
+  orcid: https://orcid.org/0009-0002-0355-0262
+abstract: Research companion containing aggregated observations for 2005-2024, analytical
+  scripts R02-R09, archived model outputs, revised Pareto and management tables, spatial
+  analytical-unit rasters, and Figure 4/5 plotting scripts for 58 analytical units
+  in the Three-North Shelterbelt region. Raw remote-sensing preprocessing and generation
+  of the R09B reference sample are outside the supplied reproducibility boundary.
+  This archive is a code and derived-data research output, not the journal article
+  itself.
+keywords:
+- groundwater-dependent ecosystems
+- dryland restoration
+- Three-North Shelterbelt
+- safe LAI
+- vegetation occupancy
+- Pareto optimization
+- environmental transferability
+license:
+- MIT
+- CC-BY-4.0

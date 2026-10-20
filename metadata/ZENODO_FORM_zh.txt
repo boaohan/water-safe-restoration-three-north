@@ -1,0 +1,17 @@
+Zenodo 手动上传表单参考（不是 API payload）
+资源类型：Software（本包以可运行分析代码为主，并附带派生数据）
+标题：Code and derived data for groundwater-constrained water-safe restoration across China's Three-North Shelterbelt region
+版本：1.0.0
+创建者姓：Bo
+创建者名：Aohan
+单位：Beijing Forestry University, Beijing, China
+ORCID：0009-0002-0355-0262
+许可：同时添加 MIT 和 CC BY 4.0；适用范围见包内 LICENSE。
+发表日期：填写实际发布日，不要将准备日期自动当作发表日期。
+已有 DOI：本研究包尚无 DOI，选择 No 并由 Zenodo 分配/预留。
+描述：Research companion containing aggregated observations for 2005-2024, analytical scripts R02-R09, archived model outputs, revised Pareto and management tables, spatial analytical-unit rasters, and Figure 4/5 plotting scripts for 58 analytical units in the Three-North Shelterbelt region. Raw remote-sensing preprocessing and generation of the R09B reference sample are outside the supplied reproducibility boundary. This archive is a code and derived-data research output, not the journal article itself.
+补充许可描述：Code is licensed under MIT; author-owned data, figures and documentation are licensed under CC BY 4.0. Third-party rights remain with their respective holders. See LICENSE for scope.
+关键词：groundwater-dependent ecosystems; dryland restoration; Three-North Shelterbelt; safe LAI; vegetation occupancy; Pareto optimization; environmental transferability
+相关标识：填写建好后的真实 GitHub 仓库 URL；论文正式 DOI 获得后可用 isSupplementTo 关联。不要把文章 DOI 作为本包 DOI。
+文件：上传最终发布包，或将仓库内容压缩为一个 ZIP；不要包含 build/、.venv/ 或 .git/。
+当前状态：仓库 URL、发表日期、DOI 尚未产生，未代填。

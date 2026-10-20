@@ -1,0 +1,11 @@
+Figure 5. Final management pathways across the Three-North region.
+
+(a) Spatial distribution of the five final management pathways, using the supplied management map. The geographic proportions, boundary, north arrow and scale bar are retained. Pathway colors match panels (b–f) and the common legend.
+
+(b) Regional area shares of the five management pathways, using the total area of all 58 analytical units (3,999,548.72 km²) as the denominator. Bar lengths retain the original numerical precision; labels are rounded to one decimal place and may sum to 100.1%.
+
+(c) Area composition of management pathways within each GDE level, using the area of that level as its denominator. GDE 0–3 are shown in the original code order; the numerical codes are not assumed to rank ecological constraint intensity. (d) Area composition within each aridity class, ordered from hyper-arid to humid/sub-humid. Both panels retain the supplied area percentages, including very small nonzero shares; labels are shown only for shares of at least 5%. Zero-area combinations contribute no height. Colors identify management categories rather than numerical magnitude.
+
+(e) Target leaf area index (LAI) and (f) target vegetation occupancy (V_target × 100) for the same 25 analytical units with numerical targets: close-to-nature management, n = 15; low-tree mixed restoration, n = 10. Boxes show the unweighted 25th–75th percentiles across analytical units, center lines show medians, and whiskers reach the most extreme observed values within 1.5 interquartile ranges of the box edges. All unit-level observations are overlaid, including observations beyond the whiskers. Points have identical small horizontal offsets in (e) and (f), while their vertical positions retain the actual observed target values. The per-unit LAI_target_p05/p95 and V_target_p05/p95 fields are not used for these boxes.
+
+Panels (b–d) cover all 58 analytical units; panels (e–f) use unweighted data for the 25 units with numerical targets. The other 33 units were not assigned numerical targets and are excluded from panels (e–f). In the 15 close-to-nature management units, V_target retains existing vegetation occupancy, so these target values do not represent additional restoration area. Panel (f) shows total target vegetation occupancy, not V_expansion or within-vegetation life-form proportions.

@@ -1,0 +1,25 @@
+{
+  "R07_ParetoFront.csv": {
+    "rows": 480,
+    "candidate_identities_match": true,
+    "q_components_match": true
+  },
+  "R07_BestCompromise.csv": {
+    "rows": 25,
+    "candidate_identities_match": true,
+    "q_components_match": true
+  },
+  "R08": {
+    "all_58_pathways_match": true,
+    "max_selected_V_target_absolute_difference": 0.00017034916884228757
+  },
+  "R03": {
+    "max_V_hydro_absolute_difference": 0.00025552375326343135
+  },
+  "scope": {
+    "strict_numerical_reproduction": false,
+    "source_version_of_original_environment": "not supplied",
+    "cause_of_difference": "not conclusively established; do not attribute solely to one library",
+    "existing_woody_context": "same logical booleans but serialized True/False vs 1.0/0.0"
+  }
+}

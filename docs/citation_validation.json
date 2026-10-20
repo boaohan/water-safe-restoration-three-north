@@ -1,0 +1,9 @@
+{
+  "schema": "https://citation-file-format.github.io/1.2.0/schema.json",
+  "cff_schema_version": "1.2.0",
+  "validation": "passed with JSON Schema Draft 7 and format checking",
+  "orcid_checksum": "valid",
+  "orcid_identity": "provided by user; not independently identity-verified",
+  "doi": "not assigned",
+  "repository_url": "not supplied; omitted rather than fabricated"
+}

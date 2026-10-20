@@ -1,0 +1,772 @@
+[
+  {
+    "repository_path": "data/inputs/R01B1_ClassYear_2005_2009.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R01B1_ClassYear_2005_2009.csv",
+    "source_sha256": "a23919b5c991417e27a16e0e86c38cb5bf20d3ebbb9d315270ea3c9a06819755",
+    "release_sha256": "a23919b5c991417e27a16e0e86c38cb5bf20d3ebbb9d315270ea3c9a06819755",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/inputs/R01B1_ClassYear_2010_2014.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R01B1_ClassYear_2010_2014.csv",
+    "source_sha256": "d8606099561ac2aa9fd6fed29e40f5e88cf58ce40aa79be7990ca483098af3f3",
+    "release_sha256": "d8606099561ac2aa9fd6fed29e40f5e88cf58ce40aa79be7990ca483098af3f3",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/inputs/R01B1_ClassYear_2015_2019.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R01B1_ClassYear_2015_2019.csv",
+    "source_sha256": "9e1cd6f208b3eea2b7dbe4fc49075c812346e2bb9c1d766ffeb13bd8e9ec5d8f",
+    "release_sha256": "9e1cd6f208b3eea2b7dbe4fc49075c812346e2bb9c1d766ffeb13bd8e9ec5d8f",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/inputs/R01B1_ClassYear_2020_2024.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R01B1_ClassYear_2020_2024.csv",
+    "source_sha256": "ad5f92b4ce9e2fff99d831628f4237aa5e15947e9c07f6bbedb73d79b444ae22",
+    "release_sha256": "ad5f92b4ce9e2fff99d831628f4237aa5e15947e9c07f6bbedb73d79b444ae22",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/inputs/R01B1_Static_ByClass_FINAL.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R01B1_Static_ByClass_FINAL.csv",
+    "source_sha256": "caad4881895a6a8b22016b9df379c2b44f053e88f87d16cfaf81d4a2c5dae838",
+    "release_sha256": "caad4881895a6a8b22016b9df379c2b44f053e88f87d16cfaf81d4a2c5dae838",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R02_Class_LAIhydro_q25.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R02_Class_LAIhydro_q25.csv",
+    "source_sha256": "665df2765575c730b73bb6d7c66678db872efb07fe673ddf0824b72bba072f9e",
+    "release_sha256": "665df2765575c730b73bb6d7c66678db872efb07fe673ddf0824b72bba072f9e",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R02_ClassYear_With_LAIcapPred.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R02_ClassYear_With_LAIcapPred.csv",
+    "source_sha256": "526fa815201248232fef2fe4b9ddf48409fd51cdff28bfad5ff84498ee7b101f",
+    "release_sha256": "526fa815201248232fef2fe4b9ddf48409fd51cdff28bfad5ff84498ee7b101f",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R02_CV_predictions_nonGDE.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R02_CV_predictions_nonGDE.csv",
+    "source_sha256": "90d8540a9bf6d3e3abbe76ce30dbf5d0f52eb022853cc7d5172d7e88c1de7ec8",
+    "release_sha256": "90d8540a9bf6d3e3abbe76ce30dbf5d0f52eb022853cc7d5172d7e88c1de7ec8",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R02_LegacyLike_vs_Revised_byClass.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R02_LegacyLike_vs_Revised_byClass.csv",
+    "source_sha256": "c9caa681ab712613ef3e13e49902e685130bc00af0cb001c379b1accada6ec1a",
+    "release_sha256": "c9caa681ab712613ef3e13e49902e685130bc00af0cb001c379b1accada6ec1a",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R02_LegacyLike_vs_Revised_byGDELevel.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R02_LegacyLike_vs_Revised_byGDELevel.csv",
+    "source_sha256": "e52a3b2a87cf8af40bebef3d9eff2d2ee418811fd97f429b1ff4c9f8b7ec33c7",
+    "release_sha256": "e52a3b2a87cf8af40bebef3d9eff2d2ee418811fd97f429b1ff4c9f8b7ec33c7",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R02_ModelInput_1160.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R02_ModelInput_1160.csv",
+    "source_sha256": "6de4950c83ecf2d840d5845d0e009c9cd3d46d5c7c06f5aa05c2c272ab3ac9d5",
+    "release_sha256": "6de4950c83ecf2d840d5845d0e009c9cd3d46d5c7c06f5aa05c2c272ab3ac9d5",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R02_ModelMetrics.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R02_ModelMetrics.csv",
+    "source_sha256": "6323e47351d19d090510f6ed60f048f31f04a83f2e321ce57903e877134a3d31",
+    "release_sha256": "6323e47351d19d090510f6ed60f048f31f04a83f2e321ce57903e877134a3d31",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R02_Training_nonGDE_300.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R02_Training_nonGDE_300.csv",
+    "source_sha256": "87300b6d11b90d7ea20643100c24c5e36a47c8f6d3ac4493e00ccfc5ff9cb3b9",
+    "release_sha256": "87300b6d11b90d7ea20643100c24c5e36a47c8f6d3ac4493e00ccfc5ff9cb3b9",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R03_Class_Occupancy.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R03_Class_Occupancy.csv",
+    "source_sha256": "d72901f0089bac98b21f76acee4f281aa96d41d3b69bf1842404088d18e6696f",
+    "release_sha256": "d72901f0089bac98b21f76acee4f281aa96d41d3b69bf1842404088d18e6696f",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R03_ClassYear_OccupancyPred.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R03_ClassYear_OccupancyPred.csv",
+    "source_sha256": "e54fa2ca9f4b9f37abed1f4620308936c9cc1a575db34ac63ee2b884237cf67a",
+    "release_sha256": "e54fa2ca9f4b9f37abed1f4620308936c9cc1a575db34ac63ee2b884237cf67a",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R03_Occupancy_CV_predictions.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R03_Occupancy_CV_predictions.csv",
+    "source_sha256": "b186209ea61ff58f1f4ea9beb427a8bf73243dcbb108a5da15cad3c756c9dba9",
+    "release_sha256": "b186209ea61ff58f1f4ea9beb427a8bf73243dcbb108a5da15cad3c756c9dba9",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R03_Occupancy_ModelMetrics.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R03_Occupancy_ModelMetrics.csv",
+    "source_sha256": "87ac6c883c9f29461a2e9bbf8dfc11e5fb7c8b74134cfb6e16425c3905a39207",
+    "release_sha256": "87ac6c883c9f29461a2e9bbf8dfc11e5fb7c8b74134cfb6e16425c3905a39207",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R03_SparseOpen_Sensitivity.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R03_SparseOpen_Sensitivity.csv",
+    "source_sha256": "112c86e14662469875b709d0ebaae48fafb6fe5466fad06c4c16b8317a66c4e4",
+    "release_sha256": "112c86e14662469875b709d0ebaae48fafb6fe5466fad06c4c16b8317a66c4e4",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R03_Training_Occupancy.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R03_Training_Occupancy.csv",
+    "source_sha256": "ff5b4f74a031456f16d47bf098461f3aac0df7e7dbe26fcb4ca495323ff32fe3",
+    "release_sha256": "ff5b4f74a031456f16d47bf098461f3aac0df7e7dbe26fcb4ca495323ff32fe3",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R04_Class_LAIsafe.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R04_Class_LAIsafe.csv",
+    "source_sha256": "bf2c787d12fe6830fffd952cae6306d7fcf169336601a3c525e6bffc42d5714b",
+    "release_sha256": "bf2c787d12fe6830fffd952cae6306d7fcf169336601a3c525e6bffc42d5714b",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R04_GDELevel_Summary.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R04_GDELevel_Summary.csv",
+    "source_sha256": "ed21532a3cbc588e170c35d45ac2244f6287fad852a4d48a6700b16aebbb64a5",
+    "release_sha256": "ed21532a3cbc588e170c35d45ac2244f6287fad852a4d48a6700b16aebbb64a5",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R04_RiskComponents.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R04_RiskComponents.csv",
+    "source_sha256": "18ed14040facb241e5c7d4553216e88093d427f02ff30cbef2a88499d2d58c85",
+    "release_sha256": "18ed14040facb241e5c7d4553216e88093d427f02ff30cbef2a88499d2d58c85",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R04_RiskIntensity_Sensitivity.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R04_RiskIntensity_Sensitivity.csv",
+    "source_sha256": "d4ca5d0c0b5627d5a7665d087a28c27bd5020dcad45f3342370b3548be8071f5",
+    "release_sha256": "d4ca5d0c0b5627d5a7665d087a28c27bd5020dcad45f3342370b3548be8071f5",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R05_Class_Eligibility.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R05_Class_Eligibility.csv",
+    "source_sha256": "1d9fb1fa5f47db566cb135559fe2e889a637effb8725ee66dac5ec41ecaec959",
+    "release_sha256": "1d9fb1fa5f47db566cb135559fe2e889a637effb8725ee66dac5ec41ecaec959",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R05_Eligibility_AreaSummary.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R05_Eligibility_AreaSummary.csv",
+    "source_sha256": "6ff5adf1c7e872adc882a5282d3e41425f28507f1b79842d8b33ba3822d6e6ec",
+    "release_sha256": "6ff5adf1c7e872adc882a5282d3e41425f28507f1b79842d8b33ba3822d6e6ec",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R05_Eligibility_Sensitivity.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R05_Eligibility_Sensitivity.csv",
+    "source_sha256": "f3c6b0709d46b5a921d05ccb5f4c0d9c995a194d6f166f8441b06fa0219c6b1c",
+    "release_sha256": "f3c6b0709d46b5a921d05ccb5f4c0d9c995a194d6f166f8441b06fa0219c6b1c",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R06_CandidateLibrary.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R06_CandidateLibrary.csv",
+    "source_sha256": "1e5dad3262fb8a6f1fc155f774d0101371d3f38fdce7c02186a982db259cdaad",
+    "release_sha256": "1e5dad3262fb8a6f1fc155f774d0101371d3f38fdce7c02186a982db259cdaad",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R06_CandidateSummary_ByClass.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R06_CandidateSummary_ByClass.csv",
+    "source_sha256": "2effad5b2e0ab4589e2d65cab9577c30237bf2f27970dabeecdcf2274b35df95",
+    "release_sha256": "2effad5b2e0ab4589e2d65cab9577c30237bf2f27970dabeecdcf2274b35df95",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R06_DirectManagement.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R06_DirectManagement.csv",
+    "source_sha256": "a945f358e97d86d93890b1a2d317aca75cc6aad979bbd9aacf74d48140e84f32",
+    "release_sha256": "a945f358e97d86d93890b1a2d317aca75cc6aad979bbd9aacf74d48140e84f32",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R06_TreeCap_Sensitivity.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R06_TreeCap_Sensitivity.csv",
+    "source_sha256": "61e4a925f9753b58525f6045c0d9c7de14014e2090a9b4d819af8f35bfe49138",
+    "release_sha256": "61e4a925f9753b58525f6045c0d9c7de14014e2090a9b4d819af8f35bfe49138",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R07_BestCompromise.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R07_BestCompromise.csv",
+    "source_sha256": "bce9616ce6022608120bb60b670fef9e7bf15649611a3e23c6921ec8c1fbf21d",
+    "release_sha256": "bce9616ce6022608120bb60b670fef9e7bf15649611a3e23c6921ec8c1fbf21d",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R07_BestSummary.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R07_BestSummary.csv",
+    "source_sha256": "51dd3f7417a063c6227b068e3ba26664869617f3119fbaeb1a9bd8f9f3f1b04f",
+    "release_sha256": "51dd3f7417a063c6227b068e3ba26664869617f3119fbaeb1a9bd8f9f3f1b04f",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R07_ClassBackgroundMetrics.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R07_ClassBackgroundMetrics.csv",
+    "source_sha256": "85adf1fc584e7e13b72203dab4a77dc100659e684e042d789cb65574c97201b5",
+    "release_sha256": "85adf1fc584e7e13b72203dab4a77dc100659e684e042d789cb65574c97201b5",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R07_ParetoFront.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R07_ParetoFront.csv",
+    "source_sha256": "617290c1bf95dcc581ad14d133bc4ea2b4f59f6a5532809ca9deb00cf52b209f",
+    "release_sha256": "617290c1bf95dcc581ad14d133bc4ea2b4f59f6a5532809ca9deb00cf52b209f",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R07_ParetoRanges_ByClass.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R07_ParetoRanges_ByClass.csv",
+    "source_sha256": "b2167edf8670ac4843a62ee99ab12b7e066a97ad142a3c705fdd7d11b95eb28d",
+    "release_sha256": "b2167edf8670ac4843a62ee99ab12b7e066a97ad142a3c705fdd7d11b95eb28d",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R07_ScoredCandidates.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R07_ScoredCandidates.csv",
+    "source_sha256": "f25e492b9ee6f9fdc7b5de6b2faf2130ac041bc5681e654ff0c1f69bb95e6648",
+    "release_sha256": "f25e492b9ee6f9fdc7b5de6b2faf2130ac041bc5681e654ff0c1f69bb95e6648",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R07_WeightSensitivity.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R07_WeightSensitivity.csv",
+    "source_sha256": "1b906a214b040790a3bbe352ff90a9033ba30e0f72f4cc27247366f9e10dfcd5",
+    "release_sha256": "1b906a214b040790a3bbe352ff90a9033ba30e0f72f4cc27247366f9e10dfcd5",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R08_FinalManagement_ByClass.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R08_FinalManagement_ByClass.csv",
+    "source_sha256": "c2ceefdc86fa4206b18bbde81dc86c955cb9d8b5eb146a9da3ede31aa5ff300a",
+    "release_sha256": "c2ceefdc86fa4206b18bbde81dc86c955cb9d8b5eb146a9da3ede31aa5ff300a",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R08_InterventionIntensity_Summary.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R08_InterventionIntensity_Summary.csv",
+    "source_sha256": "1ac82ab762fe08264d79d854c893a6bf165698609f2f967d13e97eda5041187c",
+    "release_sha256": "1ac82ab762fe08264d79d854c893a6bf165698609f2f967d13e97eda5041187c",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R08_Management_AreaSummary.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R08_Management_AreaSummary.csv",
+    "source_sha256": "e89d32b0d45a5439af9c567f8a9c73723902316867b0acae1462a9a7f684c41c",
+    "release_sha256": "e89d32b0d45a5439af9c567f8a9c73723902316867b0acae1462a9a7f684c41c",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R08_Management_ByAridity.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R08_Management_ByAridity.csv",
+    "source_sha256": "762bcc0c03ed7f0f0985ecdae8e684ff5a710a5e29b77aa4aafd630eb355f294",
+    "release_sha256": "762bcc0c03ed7f0f0985ecdae8e684ff5a710a5e29b77aa4aafd630eb355f294",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R08_Management_ByGDE.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R08_Management_ByGDE.csv",
+    "source_sha256": "ed9a51e8955ac981618445c16c10333c69b2847b3d08c8a5e0d66c91b5bd4792",
+    "release_sha256": "ed9a51e8955ac981618445c16c10333c69b2847b3d08c8a5e0d66c91b5bd4792",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R08_ParetoConfidence_Summary.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R08_ParetoConfidence_Summary.csv",
+    "source_sha256": "ba1406e11e85d4650918250bbe6d5f9e98ab7ee8fcbe946524946a2c6e04cd0e",
+    "release_sha256": "ba1406e11e85d4650918250bbe6d5f9e98ab7ee8fcbe946524946a2c6e04cd0e",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R08_RestorationStructure_Stats.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R08_RestorationStructure_Stats.csv",
+    "source_sha256": "b779bf601b21ebc83cc269e994d51c65137f9a414ad85fdace22a41c546f1c1d",
+    "release_sha256": "b779bf601b21ebc83cc269e994d51c65137f9a414ad85fdace22a41c546f1c1d",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R08_SubmittedVsRevised_Headline.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R08_SubmittedVsRevised_Headline.csv",
+    "source_sha256": "610fb776c1f9a3d968f4b0a0a4a5805a9353aa4dc05d2285dfa9d22de23fb7e7",
+    "release_sha256": "610fb776c1f9a3d968f4b0a0a4a5805a9353aa4dc05d2285dfa9d22de23fb7e7",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R09A_DensityEvidencePolicy.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R09A_DensityEvidencePolicy.csv",
+    "source_sha256": "81943765b0837a5c69ed929d631cdeb0f600f2084e3a5f1550cfd06e6c973c31",
+    "release_sha256": "81943765b0837a5c69ed929d631cdeb0f600f2084e3a5f1550cfd06e6c973c31",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R09A_EngineeringReference_Summary.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R09A_EngineeringReference_Summary.csv",
+    "source_sha256": "92aa3ef01f548128233d3ea84c2fdebabe0534526af8f8381b7c9a303270e760",
+    "release_sha256": "92aa3ef01f548128233d3ea84c2fdebabe0534526af8f8381b7c9a303270e760",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R09A_EngineeringReference_Validation.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R09A_EngineeringReference_Validation.csv",
+    "source_sha256": "7f8ccb2169b5a68dfe61fd4ed7e9bb396719e9e5a95dc3f11c5f5e2ce27579e4",
+    "release_sha256": "7f8ccb2169b5a68dfe61fd4ed7e9bb396719e9e5a95dc3f11c5f5e2ce27579e4",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/inputs/R09B_ReferenceDomain_Environment.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R09B_ReferenceDomain_Environment.csv",
+    "source_sha256": "e282c92c1c0320960376339bb96dedeac266cc0daf3cc82731e65c2e0d05d27c",
+    "release_sha256": "e282c92c1c0320960376339bb96dedeac266cc0daf3cc82731e65c2e0d05d27c",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R09B_ReferenceDomain_Summary.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R09B_ReferenceDomain_Summary.csv",
+    "source_sha256": "fd903c83f34218a46c228a8e6e940a94f6a2844e1c4ae587a56cdb3ddc1c664a",
+    "release_sha256": "fd903c83f34218a46c228a8e6e940a94f6a2844e1c4ae587a56cdb3ddc1c664a",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R09C_DensityGuidance_Summary.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R09C_DensityGuidance_Summary.csv",
+    "source_sha256": "6b98533f7e63739a63721e432a17fcc85531d42b4df789a23136d92bf44de835",
+    "release_sha256": "6b98533f7e63739a63721e432a17fcc85531d42b4df789a23136d92bf44de835",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R09C_DensityReportingPolicy_ByClass.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R09C_DensityReportingPolicy_ByClass.csv",
+    "source_sha256": "cd88bdb94e2f7d302e3977092180e439714d1ca4d7d09aab51082d828b45d134",
+    "release_sha256": "cd88bdb94e2f7d302e3977092180e439714d1ca4d7d09aab51082d828b45d134",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R09C_Transferability_ByClass.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R09C_Transferability_ByClass.csv",
+    "source_sha256": "2ad014f16022313552d86989936f2030b2a12b18fc3ae2639df6c65c14a44a42",
+    "release_sha256": "2ad014f16022313552d86989936f2030b2a12b18fc3ae2639df6c65c14a44a42",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference/R09C_Transferability_Summary.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R09C_Transferability_Summary.csv",
+    "source_sha256": "d35f93184e35f4cdc4a2ca61361cc37e644cb984352e3ed680173c6b3f1aeda5",
+    "release_sha256": "d35f93184e35f4cdc4a2ca61361cc37e644cb984352e3ed680173c6b3f1aeda5",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/inputs/S11_Engineering_ReferenceRanges_AllSandlands.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/S11_Engineering_ReferenceRanges_AllSandlands.csv",
+    "source_sha256": "f0378052fe1b152e0ed3a692725b4f64f64919e42c09128c3f13aa01fc716fc2",
+    "release_sha256": "f0378052fe1b152e0ed3a692725b4f64f64919e42c09128c3f13aa01fc716fc2",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/inputs/ThreeNorth_SpeciesPool_Seed.csv",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/ThreeNorth_SpeciesPool_Seed.csv",
+    "source_sha256": "8dcd5accf8c98ede5afd6807a937d20b312b1a22be8c3eeb69ef9fe8d3e73d29",
+    "release_sha256": "8dcd5accf8c98ede5afd6807a937d20b312b1a22be8c3eeb69ef9fe8d3e73d29",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "analysis/R02_retrain_LAIhydro.py",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R02_retrain_LAIhydro.py",
+    "source_sha256": "1414fba9c6a1b41120d91778a41b07528a199d81cf376998e1deb8e003afb283",
+    "release_sha256": "1414fba9c6a1b41120d91778a41b07528a199d81cf376998e1deb8e003afb283",
+    "changes": "portable paths / documented text cleanup"
+  },
+  {
+    "repository_path": "analysis/R03_vegetation_occupancy.py",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R03_vegetation_occupancy.py",
+    "source_sha256": "d0cc41fe92a5fa4137cdd8901a3f774b345c0dc5cbff25f7c236dc83e95d39ea",
+    "release_sha256": "42161d9f1ae9363a1537c1ff981c38a84e8b1db20636bca1492f0dbb08e10822",
+    "changes": "portable paths / documented text cleanup"
+  },
+  {
+    "repository_path": "analysis/R04_gde_safe_lai.py",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R04_gde_safe_lai.py",
+    "source_sha256": "c2b4fba429626ddcd0899822bd85308a709c704b54ac570e7e1757148298abeb",
+    "release_sha256": "e868764bba8b43f29cf961d937f94c92dee40deb87f8cae821d0d40207aa2ba7",
+    "changes": "portable paths / documented text cleanup"
+  },
+  {
+    "repository_path": "analysis/R05_active_restoration_eligibility.py",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R05_active_restoration_eligibility.py",
+    "source_sha256": "2711920417d059219350f3d5f2e997e5339aa1ff5b3438897677da7cd3edc601",
+    "release_sha256": "9aac1d3afefbeb655d0471fc1295eaaeba6e784f7f7edb8e22ea8161c733c62b",
+    "changes": "portable paths / documented text cleanup"
+  },
+  {
+    "repository_path": "analysis/R06_generate_lifeform_candidates.py",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R06_generate_lifeform_candidates.py",
+    "source_sha256": "a7e7a7a12de34a2fc52488692f93e782ce7adc16c89787e9c49231cebf76db20",
+    "release_sha256": "ba16d544758ce5bdbd8e1cb28a7d189d9f38aaa680bad1e40e1d59b9687dd96f",
+    "changes": "portable paths / documented text cleanup"
+  },
+  {
+    "repository_path": "analysis/R07_pareto_optimization.py",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R07_pareto_optimization.py",
+    "source_sha256": "75808e843fd2321dbb5481eefcd325bb15a8593ff7a527ab024f4b78a7bdf05c",
+    "release_sha256": "443fc6e6ac4cc04db26d98dd7345c548ae359c4fa66ae5f2c49303b994775203",
+    "changes": "portable paths / documented text cleanup"
+  },
+  {
+    "repository_path": "analysis/R08_finalize_management_pathways.py",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R08_finalize_management_pathways.py",
+    "source_sha256": "be3c46a18cd011b75b5e82685d94aa006cb1eda029ce1c664b204d6ccbfbd008",
+    "release_sha256": "16f8076ee62d1043f05f0f15b7293cec4e3c290b511708d3da276c021ae50f5b",
+    "changes": "portable paths / documented text cleanup"
+  },
+  {
+    "repository_path": "analysis/R09A_engineering_reference_audit.py",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R09A_engineering_reference_audit.py",
+    "source_sha256": "709f3771a4110553be91483ef0dbe9887dd2d2e2cc374f99e976f2e1396225ff",
+    "release_sha256": "cb0b49c383d45a8bcaf0367cc79978b34762de43002a56a606e8a58b867b1dae",
+    "changes": "portable paths / documented text cleanup"
+  },
+  {
+    "repository_path": "analysis/R09C_environmental_transferability.py",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R09C_environmental_transferability.py",
+    "source_sha256": "ac124153a4640bcfb97a8b1ded8b9c9ccd80d705d075b42c8d05c7465ac8fa1c",
+    "release_sha256": "70ed76873951fcf85660f60920bf43a9f881666f42c41d9f786160cac023872a",
+    "changes": "portable paths / documented text cleanup"
+  },
+  {
+    "repository_path": "docs/original_workflow/R02_README.txt",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R02_README.txt",
+    "source_sha256": "011bb7cb06f73176c4f39a14a01d97ea24c6b5ffea041cc73b5c880fb18ab4b7",
+    "release_sha256": "011bb7cb06f73176c4f39a14a01d97ea24c6b5ffea041cc73b5c880fb18ab4b7",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "docs/original_workflow/R03_README.txt",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R03_README.txt",
+    "source_sha256": "7e1eefcda9cd4f7823d580be0733840e535688fd6540dc1dacc785343eef96c5",
+    "release_sha256": "7e1eefcda9cd4f7823d580be0733840e535688fd6540dc1dacc785343eef96c5",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "docs/original_workflow/R04_README.txt",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R04_README.txt",
+    "source_sha256": "a4ae3711e675a231899eba08e7dc6c9b66f29e389a661ffc9c993ea8d61ee79b",
+    "release_sha256": "a4ae3711e675a231899eba08e7dc6c9b66f29e389a661ffc9c993ea8d61ee79b",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "docs/original_workflow/R05_README.txt",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R05_README.txt",
+    "source_sha256": "77ae605af30692d34ac86923dd97814b35eca901f4e2cd05267f9f5adff898d6",
+    "release_sha256": "77ae605af30692d34ac86923dd97814b35eca901f4e2cd05267f9f5adff898d6",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "docs/original_workflow/R06_README.txt",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R06_README.txt",
+    "source_sha256": "c94a6d43107e9e6c2b39f9295ca9a9988d14f982649f41a537b976b5cf1d06b4",
+    "release_sha256": "c94a6d43107e9e6c2b39f9295ca9a9988d14f982649f41a537b976b5cf1d06b4",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "docs/original_workflow/R07_README.txt",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R07_README.txt",
+    "source_sha256": "965e6a19d1be9940fe6d912cade8951d038769f994dd89c39235729f782478d5",
+    "release_sha256": "965e6a19d1be9940fe6d912cade8951d038769f994dd89c39235729f782478d5",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "docs/original_workflow/R08_README.txt",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R08_README.txt",
+    "source_sha256": "73a9d585c9ca1fe964ac94d14c61ad37d5c80b76b765b42560c22ca703b32b55",
+    "release_sha256": "73a9d585c9ca1fe964ac94d14c61ad37d5c80b76b765b42560c22ca703b32b55",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference_qa/R02_QA.json",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R02_QA.json",
+    "source_sha256": "4c35bba7a879be0c890b8c07a9aaa41b9e47295a84e9e45085ecc85e7ef32e48",
+    "release_sha256": "4c35bba7a879be0c890b8c07a9aaa41b9e47295a84e9e45085ecc85e7ef32e48",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference_qa/R03_QA.json",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R03_QA.json",
+    "source_sha256": "4657cfd07f961450482ea13a296bbde690075601cc8d00abc78c93ebfe9d396c",
+    "release_sha256": "4657cfd07f961450482ea13a296bbde690075601cc8d00abc78c93ebfe9d396c",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference_qa/R04_QA.json",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R04_QA.json",
+    "source_sha256": "41ec86394cde37d024c8063253c343be48718cef275242d7098cc29174f15f65",
+    "release_sha256": "41ec86394cde37d024c8063253c343be48718cef275242d7098cc29174f15f65",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference_qa/R05_QA.json",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R05_QA.json",
+    "source_sha256": "47861a8b85afbc38e21108b8fec23a71794141d67df8341932ac33e5f0dadf24",
+    "release_sha256": "47861a8b85afbc38e21108b8fec23a71794141d67df8341932ac33e5f0dadf24",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference_qa/R06_QA.json",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R06_QA.json",
+    "source_sha256": "a0299edd0ecf808b2f667fb87d9fe2557507d3a97105115feb9c67f0e9bd8b73",
+    "release_sha256": "a0299edd0ecf808b2f667fb87d9fe2557507d3a97105115feb9c67f0e9bd8b73",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference_qa/R07_QA.json",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R07_QA.json",
+    "source_sha256": "e204bc13c634a741183b757910854032ae7c1bbad6f9d1e02b4065b28bf9d51d",
+    "release_sha256": "e204bc13c634a741183b757910854032ae7c1bbad6f9d1e02b4065b28bf9d51d",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference_qa/R08_QA.json",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R08_QA.json",
+    "source_sha256": "ff80a267f14bf1f1c4d46ead26c6e91ec831361ae4eb2bb1777f31e6573b69e2",
+    "release_sha256": "ff80a267f14bf1f1c4d46ead26c6e91ec831361ae4eb2bb1777f31e6573b69e2",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/reference_qa/R09A_InputAudit.json",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R09A_InputAudit.json",
+    "source_sha256": "9d4e3c37b8297c7bdd37b362b94f5e1509b7b3d6773c2d8a244e32399532b45a",
+    "release_sha256": "a8106ee60c806e9681343a63af25565613c79944d167c6316a58912ba7437cd7",
+    "changes": "portable paths / documented text cleanup"
+  },
+  {
+    "repository_path": "data/reference_qa/R09C_QA.json",
+    "source_relative_path": "R02_LAIhydro_rerun_bundle/R09C_QA.json",
+    "source_sha256": "04982f2276605f81740898ee854e7c803689c9e109390d1a064a70af1813bce1",
+    "release_sha256": "04982f2276605f81740898ee854e7c803689c9e109390d1a064a70af1813bce1",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure2/Figure2d_SafeLAI_Retention_Boxplot_58Classes.csv",
+    "source_relative_path": "新图/图2/Figure2d_SafeLAI_Retention_Boxplot_58Classes.csv",
+    "source_sha256": "11efddadc74a9a0369a603798670712382a432ff0d84738a3c6c32bc94b77b51",
+    "release_sha256": "11efddadc74a9a0369a603798670712382a432ff0d84738a3c6c32bc94b77b51",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure2/Figure2d_SafeLAI_Retention_Summary.csv",
+    "source_relative_path": "新图/图2/Figure2d_SafeLAI_Retention_Summary.csv",
+    "source_sha256": "b54d80702487fed009bbd5e8ed725a31dfd7f5555499095301439982abfb3ff5",
+    "release_sha256": "b54d80702487fed009bbd5e8ed725a31dfd7f5555499095301439982abfb3ff5",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure3/Figure3b_Eligibility_AreaShare_Final.csv",
+    "source_relative_path": "新图/图3/Figure3b_Eligibility_AreaShare_Final.csv",
+    "source_sha256": "4664cf6d5a74e163dd08a963c3a3fa2501c2dce48f0d17f486224f43e2edfcab",
+    "release_sha256": "4664cf6d5a74e163dd08a963c3a3fa2501c2dce48f0d17f486224f43e2edfcab",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure3/Figure3c_CandidateCount_Map_58ClassCodes.csv",
+    "source_relative_path": "新图/图3/Figure3c_CandidateCount_Map_58ClassCodes.csv",
+    "source_sha256": "2322a06adaa74d1c79367eb3e74c2f35794100c550da20cfae8743b422d7c8c5",
+    "release_sha256": "2322a06adaa74d1c79367eb3e74c2f35794100c550da20cfae8743b422d7c8c5",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure3/Figure3d_Ternary_Summary.csv",
+    "source_relative_path": "新图/图3/Figure3d_Ternary_Summary.csv",
+    "source_sha256": "0984d0cfa114dc2ef754b9204a439e3e023239c2b7e981769041e997572a26c8",
+    "release_sha256": "0984d0cfa114dc2ef754b9204a439e3e023239c2b7e981769041e997572a26c8",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure3/Figure3d_Ternary_UniqueCompositions.csv",
+    "source_relative_path": "新图/图3/Figure3d_Ternary_UniqueCompositions.csv",
+    "source_sha256": "f972347a743f2bac60236df8a17a37747f2afff8cd4d834e71b93520a1787624",
+    "release_sha256": "f972347a743f2bac60236df8a17a37747f2afff8cd4d834e71b93520a1787624",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure4/R07_BestCompromise_REVISED.csv",
+    "source_relative_path": "新图/图4/R07_BestCompromise_REVISED.csv",
+    "source_sha256": "bc6c48905383511966734e7dc71d6f4b041e1f37a3959582c497f5b4674d512a",
+    "release_sha256": "bc6c48905383511966734e7dc71d6f4b041e1f37a3959582c497f5b4674d512a",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure4/R07_BestSummary_REVISED.csv",
+    "source_relative_path": "新图/图4/R07_BestSummary_REVISED.csv",
+    "source_sha256": "45570a50043bf2d2442d8a29349963919cad1c62fa76d78de1f47a4ecec5039f",
+    "release_sha256": "45570a50043bf2d2442d8a29349963919cad1c62fa76d78de1f47a4ecec5039f",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure4/R07_ParetoFront_REVISED.csv",
+    "source_relative_path": "新图/图4/R07_ParetoFront_REVISED.csv",
+    "source_sha256": "f71f856777ff2c8dbf381a86fa3c93190e6b259449880bb04efd65f4931420e1",
+    "release_sha256": "f71f856777ff2c8dbf381a86fa3c93190e6b259449880bb04efd65f4931420e1",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure4/R07_ParetoRanges_ByClass_REVISED.csv",
+    "source_relative_path": "新图/图4/R07_ParetoRanges_ByClass_REVISED.csv",
+    "source_sha256": "bfaafe3ed3819136d8ca7dbe84a38c6ce63fa1d879f706f54d801f66d3a91a1d",
+    "release_sha256": "bfaafe3ed3819136d8ca7dbe84a38c6ce63fa1d879f706f54d801f66d3a91a1d",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure5/R08_FinalManagement_ByClass_REVISED.csv",
+    "source_relative_path": "新图/图5/R08_FinalManagement_ByClass_REVISED.csv",
+    "source_sha256": "0a9424d4feb81a29843145392687a079fc33eb7cfb356ae4687e877fd0dd39c8",
+    "release_sha256": "0a9424d4feb81a29843145392687a079fc33eb7cfb356ae4687e877fd0dd39c8",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure5/R08_Management_AreaSummary_REVISED.csv",
+    "source_relative_path": "新图/图5/R08_Management_AreaSummary_REVISED.csv",
+    "source_sha256": "7332e5ac29c1c98dd344f225877e73d44223e064a2ac8f162caed270d4715606",
+    "release_sha256": "7332e5ac29c1c98dd344f225877e73d44223e064a2ac8f162caed270d4715606",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure5/R08_Management_ByAridity_REVISED.csv",
+    "source_relative_path": "新图/图5/R08_Management_ByAridity_REVISED.csv",
+    "source_sha256": "c60e877642c374e15ea9bee26eacf82dac1f809d6bd5544e6d070af60f31a634",
+    "release_sha256": "c60e877642c374e15ea9bee26eacf82dac1f809d6bd5544e6d070af60f31a634",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure5/R08_Management_ByGDE_REVISED.csv",
+    "source_relative_path": "新图/图5/R08_Management_ByGDE_REVISED.csv",
+    "source_sha256": "e6b3ba15fdde677771e4c9598940b1b8a144653b036e35332f917b8437827324",
+    "release_sha256": "e6b3ba15fdde677771e4c9598940b1b8a144653b036e35332f917b8437827324",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/figure5/Figure5a_source.tif",
+    "source_relative_path": "新图/图5/图5a.tif",
+    "source_sha256": "e30bb116a22000357d6d54e7446e371b46a0d4ba134da93dedf97bc740b38c44",
+    "release_sha256": "e30bb116a22000357d6d54e7446e371b46a0d4ba134da93dedf97bc740b38c44",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/spatial/R01_CANONICAL_58ClassCode_1km.tif",
+    "source_relative_path": "新图/R01_CANONICAL_58ClassCode_1km.tif",
+    "source_sha256": "5a66e5ecf4e1a1c1f665b8459382fa1d940a62fc183f45d8e3276c22e40b12e0",
+    "release_sha256": "5a66e5ecf4e1a1c1f665b8459382fa1d940a62fc183f45d8e3276c22e40b12e0",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/spatial/R01_CANONICAL_BaseZone_1km.tif",
+    "source_relative_path": "新图/R01_CANONICAL_BaseZone_1km.tif",
+    "source_sha256": "8acdc24fc9ce7916a2b79f855c09cf41f2eca73ace6a13a23a8a0e245ece155b",
+    "release_sha256": "8acdc24fc9ce7916a2b79f855c09cf41f2eca73ace6a13a23a8a0e245ece155b",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "data/spatial/R01_CANONICAL_GDELevel_1km.tif",
+    "source_relative_path": "新图/R01_CANONICAL_GDELevel_1km.tif",
+    "source_sha256": "8aac812f9afaf2cebbdab4c3cb96eecb11cb5977a859b2ed6f4597e3f3a1968b",
+    "release_sha256": "8aac812f9afaf2cebbdab4c3cb96eecb11cb5977a859b2ed6f4597e3f3a1968b",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "figures/Figure1_supplied.tif",
+    "source_relative_path": "新图/图1.tif",
+    "source_sha256": "550b765fe226ab09ca1d580e190eb412e6c82d3edbc5312e58b58a2e0850d3b6",
+    "release_sha256": "550b765fe226ab09ca1d580e190eb412e6c82d3edbc5312e58b58a2e0850d3b6",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "figures/Figure2_supplied.tif",
+    "source_relative_path": "新图/图2/F2.tif",
+    "source_sha256": "f5f59a1dd5d9d7046ce9090579b0e35fa8995c45cae18f46c19356285e902816",
+    "release_sha256": "f5f59a1dd5d9d7046ce9090579b0e35fa8995c45cae18f46c19356285e902816",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "figures/Figure3_supplied.tif",
+    "source_relative_path": "新图/图3/图3总.tif",
+    "source_sha256": "dbbe27da71a453be3cfb87bbbac628da37ded716734f7229c4b78414a9df7239",
+    "release_sha256": "dbbe27da71a453be3cfb87bbbac628da37ded716734f7229c4b78414a9df7239",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "figures/Figure4_Pareto_water_safe.pdf",
+    "source_relative_path": "previously_prepared_figures/Figure4_Pareto_water_safe.pdf",
+    "source_sha256": "c15de7a5ae3d547a3018a0ee378cecf126cbf460aed050a7bd468d0b334fda2c",
+    "release_sha256": "c15de7a5ae3d547a3018a0ee378cecf126cbf460aed050a7bd468d0b334fda2c",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "figures/Figure4_caption_EN.txt",
+    "source_relative_path": "previously_prepared_figures/Figure4_caption_EN.txt",
+    "source_sha256": "3fb300888d3f6ff86d0f0e8e85a036448a50e236fd7496429174b2e3cc83af88",
+    "release_sha256": "3fb300888d3f6ff86d0f0e8e85a036448a50e236fd7496429174b2e3cc83af88",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "figures/Figure4_Pareto_water_safe.png",
+    "source_relative_path": "previously_prepared_figures/Figure4_Pareto_water_safe.png",
+    "source_sha256": "ee91fcf673fa00218245b9fbc0e8bb3e717f9d1132a79cb873805375e710737d",
+    "release_sha256": "ee91fcf673fa00218245b9fbc0e8bb3e717f9d1132a79cb873805375e710737d",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "plots/figure4.py",
+    "source_relative_path": "previously_prepared_figures/figure4_build.py",
+    "source_sha256": "4bd69a9dca53f058cbdfd50e7e89867522e0386e129ad4e20d67d98f2ed6f559",
+    "release_sha256": "7af48ce0ba0d85791652f4d1cc92abe129d50a9f9ae1c38faa6cc6f17672abe9",
+    "changes": "portable paths / documented text cleanup"
+  },
+  {
+    "repository_path": "figures/Figure5_Complete_Management_pathways.pdf",
+    "source_relative_path": "previously_prepared_figures/Figure5_Complete_Management_pathways.pdf",
+    "source_sha256": "0a43c947cbd590e0a53f3cd1d0b8d44ed08cb0c7f14746eb82861b2ba4addfaa",
+    "release_sha256": "0a43c947cbd590e0a53f3cd1d0b8d44ed08cb0c7f14746eb82861b2ba4addfaa",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "figures/Figure5_caption_EN.txt",
+    "source_relative_path": "previously_prepared_figures/Figure5_caption_EN.txt",
+    "source_sha256": "fc4e6968f6392cdca263f23f8e3714a8b16937a99e6282f338e1ae450e8a5b30",
+    "release_sha256": "fc4e6968f6392cdca263f23f8e3714a8b16937a99e6282f338e1ae450e8a5b30",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "figures/Figure5_Complete_Management_pathways_600dpi.png",
+    "source_relative_path": "previously_prepared_figures/Figure5_Complete_Management_pathways_600dpi.png",
+    "source_sha256": "e849cf1af93cf015a4b7c7a06c893f8ed96d892f8442863f103c9b36f5f5a294",
+    "release_sha256": "e849cf1af93cf015a4b7c7a06c893f8ed96d892f8442863f103c9b36f5f5a294",
+    "changes": "byte-identical"
+  },
+  {
+    "repository_path": "plots/figure5.py",
+    "source_relative_path": "previously_prepared_figures/figure5_build.py",
+    "source_sha256": "a892b9be04217a745d705b609cf444d813e6561b99bdcaade4f12d8500128781",
+    "release_sha256": "1e5563c7dd4c13ad4c3646ff9117555fe1a2d815ad5c159d2fce8e583484e6f0",
+    "changes": "portable paths / documented text cleanup"
+  }
+]
